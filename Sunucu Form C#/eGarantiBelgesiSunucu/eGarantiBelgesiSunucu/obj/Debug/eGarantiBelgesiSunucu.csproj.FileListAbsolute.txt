@@ -1,0 +1,64 @@
+c:\users\pidgeypc\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.exe.config
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.exe
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.pdb
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.csprojResolveAssemblyReference.cache
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.Form1.resources
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.Properties.Resources.resources
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.csproj.GenerateResource.Cache
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.exe
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.pdb
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.frmPrint.resources
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\RdlCompile.cache
+C:\Users\PidgeyPC\documents\visual studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\RdlCompile.compiled
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.exe.config
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.exe
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.pdb
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.exe
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.pdb
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.csprojResolveAssemblyReference.cache
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.Form1.resources
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.frmPrint.resources
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.Properties.Resources.resources
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.csproj.GenerateResource.Cache
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\RdlCompile.cache
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\RdlCompile.compiled
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\MySql.Data.dll
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Google.Protobuf.dll
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Renci.SshNet.dll
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\MySql.Data.xml
+C:\Users\ferha\OneDrive\Belgeler\Visual Studio 2015\Projects\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.FrmMesajlar.resources
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.exe.config
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.exe
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.pdb
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.exe
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\eGarantiBelgesiSunucu.pdb
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\MySql.Data.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Google.Protobuf.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\BouncyCastle.Crypto.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Ubiety.Dns.Core.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\Renci.SshNet.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\MySql.Data.xml
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.csprojResolveAssemblyReference.cache
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.Form1.resources
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.FrmMesajlar.resources
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.frmPrint.resources
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.Properties.Resources.resources
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\eGarantiBelgesiSunucu.csproj.GenerateResource.Cache
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\RdlCompile.cache
+D:\KOCAELİ UNİ\PROJELER\Bitirme Projesi\Sunucu Form C#\eGarantiBelgesiSunucu\eGarantiBelgesiSunucu\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/backgroundColor">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/photoicon"
+            app:civ_border_color="@color/ColorBlueDark"
+            app:civ_border_width="3dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ferhat Uslu"
+                android:id="@+id/adTut"
+                android:gravity="center"
+                android:layout_marginTop="10dp"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ferhat@gmail.com"
+            android:id="@+id/mailTut"
+            android:gravity="center"
+            android:layout_marginTop="10dp"></TextView>
+             </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="Yardım"
+                android:id="@+id/btnyardim"
+                android:layout_width="200dp"
+                android:layout_height="45dp"
+                android:textColor="#FFFF"
+                android:textAllCaps="true"
+                android:drawableLeft="@drawable/ic_help_black_24dp"
+                android:color="#000000"
+                android:shadowColor="@color/ColorBlue"
+                android:background="@drawable/custom_button"/>
+        </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+            <Button
+                android:text="Şifre Güncelle"
+                android:id="@+id/sifreDegis"
+                android:layout_width="200dp"
+                android:layout_height="45dp"
+                android:shadowColor="@color/ColorBlue"
+                android:textColor="#FFFF"
+                android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
+                android:textAllCaps="true"
+                android:color="#000000"
+                android:background="@drawable/custom_button"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/layoutyardim"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#0000ff"
+            android:gravity="center"
+            android:id="@+id/yardimKonusu"
+            android:text="Yardim için tıklayın ve sorununuzu bize belirtin ?"></TextView>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/layoutGizle"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:id="@+id/guncelEmail"
+            android:hint="Email">
+
+        </EditText>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:id="@+id/guncelPassword"
+            android:inputType="textPassword"
+            android:hint="Password Gir">
+
+        </EditText>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:id="@+id/guncelPasswordtry"
+            android:inputType="textPassword"
+            android:hint="Tekrar Password Gir">
+
+        </EditText>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <Button
+            android:text="Güncelle"
+            android:id="@+id/guncelleButton"
+            android:layout_width="140dp"
+            android:layout_height="45dp"
+            android:textColor="#FFFF"
+            android:textAllCaps="true"
+            android:layout_marginRight="10dp"
+            android:background="@color/ColorBlueDark"/>
+
+        <Button
+            android:text="Vazgeç"
+            android:id="@+id/GeriButton"
+            android:layout_width="140dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFF"
+            android:background="@color/ColorBlueDark"/>
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

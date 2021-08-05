@@ -1,0 +1,2527 @@
+22:09:23  [main] 	Initializing Control Panel
+22:09:23  [main] 	Windows Version:  Home  64-bit
+22:09:23  [main] 	XAMPP Version: 7.4.4
+22:09:23  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:09:23  [main] 	Running with Administrator rights - good!
+22:09:23  [main] 	XAMPP Installation Directory: "e:\xampp\"
+22:09:23  [main] 	Checking for prerequisites
+22:09:23  [main] 	All prerequisites found
+22:09:23  [main] 	Initializing Modules
+22:09:23  [Apache] 	Problem detected!
+22:09:23  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:09:23  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:09:23  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:09:23  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:09:23  [main] 	Starting Check-Timer
+22:09:23  [main] 	Control Panel Ready
+22:09:29  [Apache] 	Problem detected!
+22:09:29  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:09:29  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:09:29  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:09:29  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:09:29  [Apache] 	Attempting to start Apache app...
+22:09:29  [Apache] 	Status change detected: running
+22:09:30  [Apache] 	Status change detected: stopped
+22:09:30  [Apache] 	Error: Apache shutdown unexpectedly.
+22:09:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:09:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:09:30  [Apache] 	Press the Logs button to view error logs and check
+22:09:30  [Apache] 	the Windows Event Viewer for more clues
+22:09:30  [Apache] 	If you need more help, copy and post this
+22:09:30  [Apache] 	entire log window on the forums
+22:09:30  [mysql] 	Attempting to start MySQL app...
+22:09:30  [mysql] 	Status change detected: running
+22:09:36  [Apache] 	Problem detected!
+22:09:36  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:09:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:09:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:09:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:09:36  [Apache] 	Attempting to start Apache app...
+22:09:37  [Apache] 	Status change detected: running
+22:09:37  [Apache] 	Status change detected: stopped
+22:09:37  [Apache] 	Error: Apache shutdown unexpectedly.
+22:09:37  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:09:37  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:09:37  [Apache] 	Press the Logs button to view error logs and check
+22:09:37  [Apache] 	the Windows Event Viewer for more clues
+22:09:37  [Apache] 	If you need more help, copy and post this
+22:09:37  [Apache] 	entire log window on the forums
+22:09:54  [Apache] 	Problem detected!
+22:09:54  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:09:54  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:09:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:09:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:09:54  [Apache] 	Attempting to start Apache app...
+22:09:54  [Apache] 	Status change detected: running
+22:10:03  [Apache] 	Attempting to stop Apache (PID: 10932)
+22:10:03  [Apache] 	Attempting to stop Apache (PID: 6116)
+22:10:03  [Apache] 	Status change detected: stopped
+22:10:19  [Apache] 	Problem detected!
+22:10:19  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:10:19  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:10:19  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:10:19  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:10:19  [Apache] 	Attempting to start Apache app...
+22:10:19  [Apache] 	Status change detected: running
+06:27:39  [mysql] 	Attempting to stop MySQL app...
+06:27:39  [mysql] 	Status change detected: stopped
+06:27:39  [Apache] 	Attempting to stop Apache (PID: 12216)
+06:27:39  [Apache] 	Attempting to stop Apache (PID: 4160)
+06:27:40  [Apache] 	Status change detected: stopped
+08:10:07  [main] 	Deinitializing Modules
+08:10:07  [main] 	Deinitializing Control Panel
+
+18:56:44  [main] 	Initializing Control Panel
+18:56:44  [main] 	Windows Version:  Home  64-bit
+18:56:44  [main] 	XAMPP Version: 7.4.4
+18:56:44  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:56:44  [main] 	Running with Administrator rights - good!
+18:56:44  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:56:44  [main] 	Checking for prerequisites
+18:56:44  [main] 	All prerequisites found
+18:56:44  [main] 	Initializing Modules
+18:56:45  [Apache] 	Problem detected!
+18:56:45  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:56:45  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:56:45  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:56:45  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:56:45  [main] 	Starting Check-Timer
+18:56:45  [main] 	Control Panel Ready
+18:56:46  [Apache] 	Problem detected!
+18:56:46  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:56:46  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:56:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:56:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:56:46  [Apache] 	Attempting to start Apache app...
+18:56:47  [Apache] 	Status change detected: running
+18:56:47  [mysql] 	Attempting to start MySQL app...
+18:56:47  [mysql] 	Status change detected: running
+19:38:13  [Apache] 	Attempting to stop Apache (PID: 5148)
+19:38:13  [Apache] 	Attempting to stop Apache (PID: 6912)
+19:38:13  [Apache] 	Status change detected: stopped
+19:38:14  [mysql] 	Attempting to stop MySQL app...
+19:38:14  [mysql] 	Status change detected: stopped
+12:54:24  [main] 	Deinitializing Modules
+12:54:24  [main] 	Deinitializing Control Panel
+
+21:05:03  [main] 	Initializing Control Panel
+21:05:03  [main] 	Windows Version:  Home  64-bit
+21:05:03  [main] 	XAMPP Version: 7.4.4
+21:05:03  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:05:03  [main] 	Running with Administrator rights - good!
+21:05:03  [main] 	XAMPP Installation Directory: "e:\xampp\"
+21:05:03  [main] 	Checking for prerequisites
+21:05:04  [main] 	All prerequisites found
+21:05:04  [main] 	Initializing Modules
+21:05:04  [Apache] 	Problem detected!
+21:05:04  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:05:04  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:05:04  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:05:04  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:05:04  [main] 	Starting Check-Timer
+21:05:04  [main] 	Control Panel Ready
+21:05:05  [Apache] 	Problem detected!
+21:05:05  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:05:05  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:05:05  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:05:05  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:05:05  [Apache] 	Attempting to start Apache app...
+21:05:06  [Apache] 	Status change detected: running
+21:05:06  [mysql] 	Attempting to start MySQL app...
+21:05:07  [mysql] 	Status change detected: running
+21:35:35  [Apache] 	Attempting to stop Apache (PID: 3344)
+21:35:35  [Apache] 	Attempting to stop Apache (PID: 8432)
+21:35:35  [Apache] 	Status change detected: stopped
+21:35:36  [mysql] 	Attempting to stop MySQL app...
+21:35:36  [mysql] 	Status change detected: stopped
+21:37:46  [Apache] 	Problem detected!
+21:37:46  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:37:46  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:37:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:37:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:37:46  [Apache] 	Attempting to start Apache app...
+21:37:46  [Apache] 	Status change detected: running
+21:37:47  [mysql] 	Attempting to start MySQL app...
+21:37:47  [mysql] 	Status change detected: running
+21:38:34  [Apache] 	Attempting to stop Apache (PID: 14088)
+21:38:34  [Apache] 	Attempting to stop Apache (PID: 8384)
+21:38:35  [Apache] 	Status change detected: stopped
+21:38:35  [mysql] 	Attempting to stop MySQL app...
+21:38:35  [mysql] 	Status change detected: stopped
+21:38:51  [Apache] 	Problem detected!
+21:38:51  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:38:51  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:38:51  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:38:51  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:38:51  [Apache] 	Attempting to start Apache app...
+21:38:51  [Apache] 	Status change detected: running
+21:38:51  [mysql] 	Attempting to start MySQL app...
+21:38:52  [mysql] 	Status change detected: running
+23:40:16  [mysql] 	Attempting to stop MySQL app...
+23:40:16  [mysql] 	Status change detected: stopped
+23:40:17  [Apache] 	Attempting to stop Apache (PID: 14304)
+23:40:17  [Apache] 	Attempting to stop Apache (PID: 6616)
+23:40:17  [Apache] 	Status change detected: stopped
+01:29:49  [Apache] 	Status change detected: running
+01:29:50  [mysql] 	Status change detected: running
+01:34:13  [Apache] 	Status change detected: stopped
+01:34:14  [mysql] 	Status change detected: stopped
+03:36:07  [main] 	Deinitializing Modules
+03:36:07  [main] 	Deinitializing Control Panel
+
+02:45:48  [main] 	Initializing Control Panel
+02:45:48  [main] 	Windows Version:  Home  64-bit
+02:45:48  [main] 	XAMPP Version: 7.4.4
+02:45:48  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+02:45:48  [main] 	Running with Administrator rights - good!
+02:45:48  [main] 	XAMPP Installation Directory: "e:\xampp\"
+02:45:48  [main] 	Checking for prerequisites
+02:45:48  [main] 	All prerequisites found
+02:45:48  [main] 	Initializing Modules
+02:45:48  [Apache] 	Problem detected!
+02:45:48  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+02:45:48  [Apache] 	Apache WILL NOT start without the configured ports free!
+02:45:48  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+02:45:48  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+02:45:48  [main] 	Starting Check-Timer
+02:45:48  [main] 	Control Panel Ready
+02:45:50  [Apache] 	Problem detected!
+02:45:50  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+02:45:50  [Apache] 	Apache WILL NOT start without the configured ports free!
+02:45:50  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+02:45:50  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+02:45:50  [Apache] 	Attempting to start Apache app...
+02:45:50  [Apache] 	Status change detected: running
+02:45:50  [mysql] 	Attempting to start MySQL app...
+02:45:51  [mysql] 	Status change detected: running
+05:11:08  [mysql] 	Attempting to stop MySQL app...
+05:11:08  [mysql] 	Status change detected: stopped
+05:11:09  [Apache] 	Attempting to stop Apache (PID: 11968)
+05:11:09  [Apache] 	Attempting to stop Apache (PID: 12332)
+05:11:09  [Apache] 	Status change detected: stopped
+05:49:56  [main] 	Deinitializing Modules
+05:49:56  [main] 	Deinitializing Control Panel
+
+18:40:43  [main] 	Initializing Control Panel
+18:40:43  [main] 	Windows Version:  Home  64-bit
+18:40:43  [main] 	XAMPP Version: 7.4.4
+18:40:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:40:43  [main] 	Running with Administrator rights - good!
+18:40:43  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:40:43  [main] 	Checking for prerequisites
+18:40:44  [main] 	All prerequisites found
+18:40:44  [main] 	Initializing Modules
+18:40:44  [Apache] 	Problem detected!
+18:40:44  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:40:44  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:40:44  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:40:44  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:40:44  [main] 	Starting Check-Timer
+18:40:44  [main] 	Control Panel Ready
+18:40:46  [Apache] 	Problem detected!
+18:40:46  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:40:46  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:40:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:40:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:40:46  [Apache] 	Attempting to start Apache app...
+18:40:46  [mysql] 	Attempting to start MySQL app...
+18:40:46  [Apache] 	Status change detected: running
+18:40:46  [mysql] 	Status change detected: running
+00:34:54  [Apache] 	Attempting to stop Apache (PID: 6440)
+00:34:54  [Apache] 	Attempting to stop Apache (PID: 13364)
+00:34:54  [Apache] 	Status change detected: stopped
+00:34:55  [mysql] 	Attempting to stop MySQL app...
+00:34:55  [mysql] 	Status change detected: stopped
+04:03:46  [Apache] 	Problem detected!
+04:03:46  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+04:03:46  [Apache] 	Apache WILL NOT start without the configured ports free!
+04:03:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+04:03:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+04:03:46  [Apache] 	Attempting to start Apache app...
+04:03:46  [mysql] 	Attempting to start MySQL app...
+04:03:46  [Apache] 	Status change detected: running
+04:03:46  [mysql] 	Status change detected: running
+10:21:20  [Apache] 	Attempting to stop Apache (PID: 10264)
+10:21:20  [Apache] 	Attempting to stop Apache (PID: 15464)
+10:21:20  [Apache] 	Status change detected: stopped
+10:21:21  [mysql] 	Attempting to stop MySQL app...
+10:21:21  [mysql] 	Status change detected: stopped
+10:31:13  [Apache] 	Problem detected!
+10:31:13  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:31:13  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:31:13  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:31:13  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:31:13  [Apache] 	Attempting to start Apache app...
+10:31:13  [Apache] 	Status change detected: running
+10:31:14  [mysql] 	Attempting to start MySQL app...
+10:31:14  [mysql] 	Status change detected: running
+15:02:20  [Apache] 	Attempting to stop Apache (PID: 15764)
+15:02:20  [Apache] 	Attempting to stop Apache (PID: 7396)
+15:02:20  [Apache] 	Status change detected: stopped
+15:02:20  [mysql] 	Attempting to stop MySQL app...
+15:02:21  [mysql] 	Status change detected: stopped
+18:05:21  [main] 	Deinitializing Modules
+18:05:21  [main] 	Deinitializing Control Panel
+
+09:51:27  [main] 	Initializing Control Panel
+09:51:27  [main] 	Windows Version:  Home  64-bit
+09:51:27  [main] 	XAMPP Version: 7.4.4
+09:51:27  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+09:51:27  [main] 	Running with Administrator rights - good!
+09:51:27  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:51:27  [main] 	Checking for prerequisites
+09:51:28  [main] 	All prerequisites found
+09:51:28  [main] 	Initializing Modules
+09:51:28  [Apache] 	Problem detected!
+09:51:28  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+09:51:28  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:51:28  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:28  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:51:28  [main] 	Starting Check-Timer
+09:51:28  [main] 	Control Panel Ready
+09:51:29  [Apache] 	Problem detected!
+09:51:29  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+09:51:29  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:51:29  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:29  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:51:29  [Apache] 	Attempting to start Apache app...
+09:51:30  [mysql] 	Attempting to start MySQL app...
+09:51:30  [Apache] 	Status change detected: running
+09:51:30  [mysql] 	Status change detected: running
+22:14:52  [Apache] 	Attempting to stop Apache (PID: 3016)
+22:14:52  [Apache] 	Attempting to stop Apache (PID: 17320)
+22:14:52  [Apache] 	Status change detected: stopped
+22:14:53  [mysql] 	Attempting to stop MySQL app...
+22:14:53  [mysql] 	Status change detected: stopped
+00:32:03  [main] 	Deinitializing Modules
+00:32:03  [main] 	Deinitializing Control Panel
+
+12:12:57  [main] 	Initializing Control Panel
+12:12:57  [main] 	Windows Version:  Home  64-bit
+12:12:57  [main] 	XAMPP Version: 7.4.4
+12:12:57  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:12:57  [main] 	Running with Administrator rights - good!
+12:12:57  [main] 	XAMPP Installation Directory: "e:\xampp\"
+12:12:57  [main] 	Checking for prerequisites
+12:12:57  [main] 	All prerequisites found
+12:12:57  [main] 	Initializing Modules
+12:12:57  [main] 	Starting Check-Timer
+12:12:57  [main] 	Control Panel Ready
+12:12:59  [Apache] 	Attempting to start Apache app...
+12:12:59  [Apache] 	Status change detected: running
+12:13:00  [mysql] 	Attempting to start MySQL app...
+12:13:00  [mysql] 	Status change detected: running
+21:44:57  [Apache] 	Attempting to stop Apache (PID: 1856)
+21:44:57  [Apache] 	Attempting to stop Apache (PID: 13724)
+21:44:57  [Apache] 	Status change detected: stopped
+21:44:58  [mysql] 	Attempting to stop MySQL app...
+21:44:58  [mysql] 	Status change detected: stopped
+22:39:52  [main] 	Deinitializing Modules
+22:39:52  [main] 	Deinitializing Control Panel
+
+11:25:47  [main] 	Initializing Control Panel
+11:25:47  [main] 	Windows Version:  Home  64-bit
+11:25:47  [main] 	XAMPP Version: 7.4.4
+11:25:47  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:25:47  [main] 	Running with Administrator rights - good!
+11:25:47  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:25:47  [main] 	Checking for prerequisites
+11:25:48  [main] 	All prerequisites found
+11:25:48  [main] 	Initializing Modules
+11:25:48  [Apache] 	Problem detected!
+11:25:48  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:25:48  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:25:48  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:25:48  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:25:48  [main] 	Starting Check-Timer
+11:25:48  [main] 	Control Panel Ready
+11:25:50  [Apache] 	Problem detected!
+11:25:50  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:25:50  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:25:50  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:25:50  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:25:50  [Apache] 	Attempting to start Apache app...
+11:25:50  [Apache] 	Status change detected: running
+11:25:50  [mysql] 	Attempting to start MySQL app...
+11:25:51  [mysql] 	Status change detected: running
+13:24:06  [Apache] 	Attempting to stop Apache (PID: 2652)
+13:24:06  [Apache] 	Attempting to stop Apache (PID: 8352)
+13:24:06  [Apache] 	Status change detected: stopped
+13:24:06  [mysql] 	Attempting to stop MySQL app...
+13:24:06  [mysql] 	Status change detected: stopped
+13:24:17  [Apache] 	Attempting to start Apache app...
+13:24:17  [Apache] 	Status change detected: running
+13:24:18  [mysql] 	Attempting to start MySQL app...
+13:24:18  [mysql] 	Status change detected: running
+14:44:38  [Apache] 	Attempting to stop Apache (PID: 4604)
+14:44:38  [Apache] 	Attempting to stop Apache (PID: 16256)
+14:44:38  [Apache] 	Status change detected: stopped
+14:44:40  [mysql] 	Attempting to stop MySQL app...
+14:44:40  [mysql] 	Status change detected: stopped
+00:29:58  [main] 	Deinitializing Modules
+00:29:58  [main] 	Deinitializing Control Panel
+
+14:47:29  [main] 	Initializing Control Panel
+14:47:29  [main] 	Windows Version:  Home  64-bit
+14:47:29  [main] 	XAMPP Version: 7.4.4
+14:47:29  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:47:29  [main] 	Running with Administrator rights - good!
+14:47:29  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:47:29  [main] 	Checking for prerequisites
+14:47:29  [main] 	All prerequisites found
+14:47:29  [main] 	Initializing Modules
+14:47:29  [Apache] 	Problem detected!
+14:47:29  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:47:29  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:47:29  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:47:29  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:47:30  [main] 	Starting Check-Timer
+14:47:30  [main] 	Control Panel Ready
+14:47:32  [Apache] 	Problem detected!
+14:47:32  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:47:32  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:47:32  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:47:32  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:47:32  [Apache] 	Attempting to start Apache app...
+14:47:33  [Apache] 	Status change detected: running
+14:47:33  [mysql] 	Attempting to start MySQL app...
+14:47:33  [mysql] 	Status change detected: running
+14:58:19  [Apache] 	Attempting to stop Apache (PID: 3864)
+14:58:19  [Apache] 	Attempting to stop Apache (PID: 2652)
+14:58:20  [Apache] 	Status change detected: stopped
+14:58:20  [mysql] 	Attempting to stop MySQL app...
+14:58:20  [mysql] 	Status change detected: stopped
+21:50:13  [Apache] 	Problem detected!
+21:50:13  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:50:13  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:50:13  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:50:13  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:50:13  [Apache] 	Attempting to start Apache app...
+21:50:14  [Apache] 	Status change detected: running
+21:50:14  [mysql] 	Attempting to start MySQL app...
+21:50:14  [mysql] 	Status change detected: running
+23:55:12  [Apache] 	Attempting to stop Apache (PID: 10424)
+23:55:12  [Apache] 	Attempting to stop Apache (PID: 12196)
+23:55:13  [Apache] 	Status change detected: stopped
+23:55:14  [mysql] 	Attempting to stop MySQL app...
+23:55:14  [mysql] 	Status change detected: stopped
+00:53:11  [main] 	Deinitializing Modules
+00:53:11  [main] 	Deinitializing Control Panel
+
+13:46:49  [main] 	Initializing Control Panel
+13:46:49  [main] 	Windows Version:  Home  64-bit
+13:46:49  [main] 	XAMPP Version: 7.4.4
+13:46:49  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:46:49  [main] 	Running with Administrator rights - good!
+13:46:49  [main] 	XAMPP Installation Directory: "e:\xampp\"
+13:46:49  [main] 	Checking for prerequisites
+13:46:49  [main] 	All prerequisites found
+13:46:49  [main] 	Initializing Modules
+13:46:49  [Apache] 	Problem detected!
+13:46:49  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+13:46:49  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:46:49  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:46:49  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:46:49  [main] 	Starting Check-Timer
+13:46:49  [main] 	Control Panel Ready
+13:46:54  [Apache] 	Problem detected!
+13:46:54  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+13:46:54  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:46:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:46:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:46:54  [Apache] 	Attempting to start Apache app...
+13:46:55  [Apache] 	Status change detected: running
+13:46:55  [mysql] 	Attempting to start MySQL app...
+13:46:56  [mysql] 	Status change detected: running
+15:39:47  [Apache] 	Attempting to stop Apache (PID: 1864)
+15:39:47  [Apache] 	Attempting to stop Apache (PID: 15812)
+15:39:47  [mysql] 	Attempting to stop MySQL app...
+15:39:47  [Apache] 	Status change detected: stopped
+15:39:47  [mysql] 	Status change detected: stopped
+17:32:34  [Apache] 	Problem detected!
+17:32:34  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+17:32:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:32:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:32:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:32:34  [Apache] 	Attempting to start Apache app...
+17:32:34  [Apache] 	Status change detected: running
+17:32:35  [mysql] 	Attempting to start MySQL app...
+17:32:35  [mysql] 	Status change detected: running
+23:04:36  [mysql] 	Attempting to stop MySQL app...
+23:04:36  [mysql] 	Status change detected: stopped
+23:04:37  [Apache] 	Attempting to stop Apache (PID: 14272)
+23:04:37  [Apache] 	Attempting to stop Apache (PID: 424)
+23:04:37  [Apache] 	Status change detected: stopped
+01:44:00  [main] 	Deinitializing Modules
+01:44:00  [main] 	Deinitializing Control Panel
+
+12:03:18  [main] 	Initializing Control Panel
+12:03:18  [main] 	Windows Version:  Home  64-bit
+12:03:18  [main] 	XAMPP Version: 7.4.4
+12:03:18  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:03:18  [main] 	Running with Administrator rights - good!
+12:03:18  [main] 	XAMPP Installation Directory: "e:\xampp\"
+12:03:18  [main] 	Checking for prerequisites
+12:03:18  [main] 	All prerequisites found
+12:03:18  [main] 	Initializing Modules
+12:03:18  [Apache] 	Problem detected!
+12:03:18  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+12:03:18  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:03:18  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:03:18  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:03:18  [main] 	Starting Check-Timer
+12:03:18  [main] 	Control Panel Ready
+12:03:20  [Apache] 	Problem detected!
+12:03:20  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+12:03:20  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:03:20  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:03:20  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:03:20  [Apache] 	Attempting to start Apache app...
+12:03:21  [Apache] 	Status change detected: running
+12:03:21  [mysql] 	Attempting to start MySQL app...
+12:03:21  [mysql] 	Status change detected: running
+13:38:40  [Apache] 	Attempting to stop Apache (PID: 4612)
+13:38:40  [Apache] 	Attempting to stop Apache (PID: 12960)
+13:38:41  [Apache] 	Status change detected: stopped
+13:38:41  [mysql] 	Attempting to stop MySQL app...
+13:38:41  [mysql] 	Status change detected: stopped
+16:08:35  [Apache] 	Problem detected!
+16:08:35  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+16:08:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+16:08:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+16:08:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+16:08:36  [Apache] 	Attempting to start Apache app...
+16:08:36  [Apache] 	Status change detected: running
+16:08:36  [mysql] 	Attempting to start MySQL app...
+16:08:36  [mysql] 	Status change detected: running
+17:31:18  [Apache] 	Attempting to stop Apache (PID: 10072)
+17:31:18  [Apache] 	Attempting to stop Apache (PID: 9828)
+17:31:18  [Apache] 	Status change detected: stopped
+17:31:18  [mysql] 	Attempting to stop MySQL app...
+17:31:19  [mysql] 	Status change detected: stopped
+19:04:03  [Apache] 	Problem detected!
+19:04:03  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:04:03  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:04:03  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:04:03  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:04:03  [Apache] 	Attempting to start Apache app...
+19:04:04  [Apache] 	Status change detected: running
+19:04:04  [mysql] 	Attempting to start MySQL app...
+19:04:04  [mysql] 	Status change detected: running
+23:56:19  [Apache] 	Attempting to stop Apache (PID: 5628)
+23:56:19  [Apache] 	Attempting to stop Apache (PID: 14280)
+23:56:19  [mysql] 	Attempting to stop MySQL app...
+23:56:19  [Apache] 	Status change detected: stopped
+23:56:19  [mysql] 	Status change detected: stopped
+01:18:28  [main] 	Deinitializing Modules
+01:18:28  [main] 	Deinitializing Control Panel
+
+11:17:10  [main] 	Initializing Control Panel
+11:17:10  [main] 	Windows Version:  Home  64-bit
+11:17:10  [main] 	XAMPP Version: 7.4.4
+11:17:10  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:17:10  [main] 	Running with Administrator rights - good!
+11:17:10  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:17:10  [main] 	Checking for prerequisites
+11:17:10  [main] 	All prerequisites found
+11:17:10  [main] 	Initializing Modules
+11:17:10  [Apache] 	Problem detected!
+11:17:10  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:17:10  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:17:10  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:17:10  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:17:10  [main] 	Starting Check-Timer
+11:17:10  [main] 	Control Panel Ready
+11:17:12  [Apache] 	Problem detected!
+11:17:12  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+11:17:12  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:17:12  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:17:12  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:17:12  [Apache] 	Attempting to start Apache app...
+11:17:13  [Apache] 	Status change detected: running
+11:17:13  [mysql] 	Attempting to start MySQL app...
+11:17:13  [mysql] 	Status change detected: running
+12:21:52  [mysql] 	Attempting to stop MySQL app...
+12:21:52  [mysql] 	Status change detected: stopped
+12:21:52  [Apache] 	Attempting to stop Apache (PID: 13172)
+12:21:52  [Apache] 	Attempting to stop Apache (PID: 13772)
+12:21:52  [Apache] 	Status change detected: stopped
+13:34:40  [Apache] 	Attempting to start Apache app...
+13:34:40  [Apache] 	Status change detected: running
+13:34:40  [mysql] 	Attempting to start MySQL app...
+13:34:40  [mysql] 	Status change detected: running
+20:21:44  [Apache] 	Attempting to stop Apache (PID: 8676)
+20:21:44  [Apache] 	Attempting to stop Apache (PID: 2664)
+20:21:44  [Apache] 	Status change detected: stopped
+20:21:44  [mysql] 	Attempting to stop MySQL app...
+20:21:44  [mysql] 	Status change detected: stopped
+23:26:16  [Apache] 	Attempting to start Apache app...
+23:26:16  [Apache] 	Status change detected: running
+23:26:17  [mysql] 	Attempting to start MySQL app...
+23:26:17  [mysql] 	Status change detected: running
+23:31:29  [Apache] 	Attempting to stop Apache (PID: 2948)
+23:31:29  [Apache] 	Attempting to stop Apache (PID: 8316)
+23:31:29  [Apache] 	Status change detected: stopped
+23:31:30  [mysql] 	Attempting to stop MySQL app...
+23:31:30  [mysql] 	Status change detected: stopped
+02:10:26  [main] 	Deinitializing Modules
+02:10:26  [main] 	Deinitializing Control Panel
+
+14:33:46  [main] 	Initializing Control Panel
+14:33:46  [main] 	Windows Version:  Home  64-bit
+14:33:46  [main] 	XAMPP Version: 7.4.4
+14:33:46  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:33:46  [main] 	Running with Administrator rights - good!
+14:33:46  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:33:46  [main] 	Checking for prerequisites
+14:33:47  [main] 	All prerequisites found
+14:33:47  [main] 	Initializing Modules
+14:33:47  [Apache] 	Problem detected!
+14:33:47  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:33:47  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:33:47  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:33:47  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:33:47  [main] 	Starting Check-Timer
+14:33:47  [main] 	Control Panel Ready
+14:33:49  [Apache] 	Problem detected!
+14:33:49  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:33:49  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:33:49  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:33:49  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:33:49  [Apache] 	Attempting to start Apache app...
+14:33:49  [Apache] 	Status change detected: running
+14:33:50  [mysql] 	Attempting to start MySQL app...
+14:33:50  [mysql] 	Status change detected: running
+21:26:15  [Apache] 	Attempting to stop Apache (PID: 3656)
+21:26:15  [Apache] 	Attempting to stop Apache (PID: 916)
+21:26:15  [Apache] 	Status change detected: stopped
+21:26:16  [mysql] 	Attempting to stop MySQL app...
+21:26:16  [mysql] 	Status change detected: stopped
+02:40:14  [main] 	Deinitializing Modules
+02:40:14  [main] 	Deinitializing Control Panel
+
+14:59:33  [main] 	Initializing Control Panel
+14:59:33  [main] 	Windows Version:  Home  64-bit
+14:59:33  [main] 	XAMPP Version: 7.4.4
+14:59:33  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:59:33  [main] 	Running with Administrator rights - good!
+14:59:33  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:59:33  [main] 	Checking for prerequisites
+14:59:34  [main] 	All prerequisites found
+14:59:34  [main] 	Initializing Modules
+14:59:34  [Apache] 	Problem detected!
+14:59:34  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:59:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:59:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:59:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:59:34  [main] 	Starting Check-Timer
+14:59:34  [main] 	Control Panel Ready
+14:59:36  [Apache] 	Problem detected!
+14:59:36  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:59:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:59:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:59:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:59:36  [Apache] 	Attempting to start Apache app...
+14:59:36  [Apache] 	Status change detected: running
+14:59:37  [mysql] 	Attempting to start MySQL app...
+14:59:37  [mysql] 	Status change detected: running
+18:17:45  [Apache] 	Attempting to stop Apache (PID: 3824)
+18:17:45  [Apache] 	Attempting to stop Apache (PID: 10716)
+18:17:45  [Apache] 	Status change detected: stopped
+18:17:46  [mysql] 	Attempting to stop MySQL app...
+18:17:46  [mysql] 	Status change detected: stopped
+20:47:32  [Apache] 	Problem detected!
+20:47:32  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+20:47:32  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:47:32  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:47:32  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:47:32  [Apache] 	Attempting to start Apache app...
+20:47:32  [Apache] 	Status change detected: running
+20:47:32  [mysql] 	Attempting to start MySQL app...
+20:47:32  [mysql] 	Status change detected: running
+22:29:20  [Apache] 	Attempting to stop Apache (PID: 8788)
+22:29:20  [Apache] 	Attempting to stop Apache (PID: 4076)
+22:29:20  [Apache] 	Status change detected: stopped
+22:29:21  [mysql] 	Attempting to stop MySQL app...
+22:29:21  [mysql] 	Status change detected: stopped
+01:32:54  [main] 	Deinitializing Modules
+01:32:54  [main] 	Deinitializing Control Panel
+
+13:34:52  [main] 	Initializing Control Panel
+13:34:52  [main] 	Windows Version:  Home  64-bit
+13:34:52  [main] 	XAMPP Version: 7.4.4
+13:34:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:34:52  [main] 	Running with Administrator rights - good!
+13:34:52  [main] 	XAMPP Installation Directory: "e:\xampp\"
+13:34:52  [main] 	Checking for prerequisites
+13:34:53  [main] 	All prerequisites found
+13:34:53  [main] 	Initializing Modules
+13:34:53  [Apache] 	Problem detected!
+13:34:53  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+13:34:53  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:34:53  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:34:53  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:34:53  [main] 	Starting Check-Timer
+13:34:53  [main] 	Control Panel Ready
+13:34:55  [Apache] 	Problem detected!
+13:34:55  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+13:34:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:34:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:34:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:34:55  [Apache] 	Attempting to start Apache app...
+13:34:55  [Apache] 	Status change detected: running
+13:34:55  [mysql] 	Attempting to start MySQL app...
+13:34:56  [mysql] 	Status change detected: running
+16:49:58  [Apache] 	Attempting to stop Apache (PID: 11372)
+16:49:58  [Apache] 	Attempting to stop Apache (PID: 16300)
+16:49:58  [Apache] 	Status change detected: stopped
+16:49:59  [mysql] 	Attempting to stop MySQL app...
+16:49:59  [mysql] 	Status change detected: stopped
+17:44:12  [Apache] 	Attempting to start Apache app...
+17:44:12  [Apache] 	Status change detected: running
+17:44:13  [mysql] 	Attempting to start MySQL app...
+17:44:13  [mysql] 	Status change detected: running
+19:52:06  [Apache] 	Attempting to stop Apache (PID: 10212)
+19:52:06  [Apache] 	Attempting to stop Apache (PID: 6476)
+19:52:06  [Apache] 	Status change detected: stopped
+19:52:06  [mysql] 	Attempting to stop MySQL app...
+19:52:06  [mysql] 	Status change detected: stopped
+02:50:09  [main] 	Deinitializing Modules
+02:50:09  [main] 	Deinitializing Control Panel
+
+13:13:16  [main] 	Initializing Control Panel
+13:13:16  [main] 	Windows Version:  Home  64-bit
+13:13:16  [main] 	XAMPP Version: 7.4.4
+13:13:16  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:13:16  [main] 	Running with Administrator rights - good!
+13:13:16  [main] 	XAMPP Installation Directory: "e:\xampp\"
+13:13:16  [main] 	Checking for prerequisites
+13:13:17  [main] 	All prerequisites found
+13:13:17  [main] 	Initializing Modules
+13:13:17  [Apache] 	Problem detected!
+13:13:17  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+13:13:17  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:13:17  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:13:17  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:13:17  [main] 	Starting Check-Timer
+13:13:17  [main] 	Control Panel Ready
+13:13:18  [Apache] 	Problem detected!
+13:13:18  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+13:13:18  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:13:18  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:13:18  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:13:18  [Apache] 	Attempting to start Apache app...
+13:13:19  [Apache] 	Status change detected: running
+13:13:19  [mysql] 	Attempting to start MySQL app...
+13:13:19  [mysql] 	Status change detected: running
+13:56:35  [Apache] 	Attempting to stop Apache (PID: 7356)
+13:56:35  [Apache] 	Attempting to stop Apache (PID: 3144)
+13:56:36  [Apache] 	Status change detected: stopped
+13:56:36  [mysql] 	Attempting to stop MySQL app...
+13:56:36  [mysql] 	Status change detected: stopped
+15:31:55  [Apache] 	Problem detected!
+15:31:55  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+15:31:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:31:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:31:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:31:55  [Apache] 	Attempting to start Apache app...
+15:31:55  [Apache] 	Status change detected: running
+15:31:56  [mysql] 	Attempting to start MySQL app...
+15:31:56  [mysql] 	Status change detected: running
+23:17:40  [Apache] 	Attempting to stop Apache (PID: 10060)
+23:17:40  [Apache] 	Attempting to stop Apache (PID: 14024)
+23:17:40  [Apache] 	Status change detected: stopped
+23:17:41  [mysql] 	Attempting to stop MySQL app...
+23:17:41  [mysql] 	Status change detected: stopped
+03:26:00  [main] 	Deinitializing Modules
+03:26:00  [main] 	Deinitializing Control Panel
+
+15:12:52  [main] 	Initializing Control Panel
+15:12:52  [main] 	Windows Version:  Home  64-bit
+15:12:52  [main] 	XAMPP Version: 7.4.4
+15:12:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:12:52  [main] 	Running with Administrator rights - good!
+15:12:52  [main] 	XAMPP Installation Directory: "e:\xampp\"
+15:12:52  [main] 	Checking for prerequisites
+15:12:53  [main] 	All prerequisites found
+15:12:53  [main] 	Initializing Modules
+15:12:53  [Apache] 	Problem detected!
+15:12:53  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+15:12:53  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:12:53  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:12:53  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:12:53  [main] 	Starting Check-Timer
+15:12:53  [main] 	Control Panel Ready
+15:12:54  [Apache] 	Problem detected!
+15:12:54  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+15:12:54  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:12:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:12:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:12:54  [Apache] 	Attempting to start Apache app...
+15:12:54  [Apache] 	Status change detected: running
+15:12:54  [mysql] 	Attempting to start MySQL app...
+15:12:55  [mysql] 	Status change detected: running
+15:40:28  [Apache] 	Attempting to stop Apache (PID: 12276)
+15:40:28  [Apache] 	Attempting to stop Apache (PID: 18128)
+15:40:29  [Apache] 	Status change detected: stopped
+15:40:30  [mysql] 	Attempting to stop MySQL app...
+15:40:30  [mysql] 	Status change detected: stopped
+15:40:32  [Apache] 	Attempting to start Apache app...
+15:40:33  [Apache] 	Status change detected: running
+15:40:33  [mysql] 	Attempting to start MySQL app...
+15:40:34  [mysql] 	Status change detected: running
+16:43:56  [Apache] 	Attempting to stop Apache (PID: 11312)
+16:43:56  [Apache] 	Attempting to stop Apache (PID: 11820)
+16:43:56  [Apache] 	Status change detected: stopped
+16:43:58  [mysql] 	Attempting to stop MySQL app...
+16:43:58  [mysql] 	Status change detected: stopped
+18:12:12  [Apache] 	Attempting to start Apache app...
+18:12:13  [Apache] 	Status change detected: running
+18:12:13  [mysql] 	Attempting to start MySQL app...
+18:12:13  [mysql] 	Status change detected: running
+22:19:14  [Apache] 	Attempting to stop Apache (PID: 3220)
+22:19:14  [Apache] 	Attempting to stop Apache (PID: 14176)
+22:19:14  [Apache] 	Status change detected: stopped
+22:19:15  [mysql] 	Attempting to stop MySQL app...
+22:19:15  [mysql] 	Status change detected: stopped
+02:26:15  [main] 	Deinitializing Modules
+02:26:15  [main] 	Deinitializing Control Panel
+
+18:32:31  [main] 	Initializing Control Panel
+18:32:31  [main] 	Windows Version:  Home  64-bit
+18:32:31  [main] 	XAMPP Version: 7.4.4
+18:32:31  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:32:31  [main] 	Running with Administrator rights - good!
+18:32:31  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:32:31  [main] 	Checking for prerequisites
+18:32:32  [main] 	All prerequisites found
+18:32:32  [main] 	Initializing Modules
+18:32:32  [Apache] 	Problem detected!
+18:32:32  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:32:32  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:32:32  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:32:32  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:32:32  [main] 	Starting Check-Timer
+18:32:32  [main] 	Control Panel Ready
+18:32:34  [Apache] 	Problem detected!
+18:32:34  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:32:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:32:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:32:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:32:34  [Apache] 	Attempting to start Apache app...
+18:32:34  [mysql] 	Attempting to start MySQL app...
+18:32:34  [Apache] 	Status change detected: running
+18:32:34  [mysql] 	Status change detected: running
+20:04:15  [Apache] 	Attempting to stop Apache (PID: 14084)
+20:04:15  [Apache] 	Attempting to stop Apache (PID: 15856)
+20:04:15  [Apache] 	Status change detected: stopped
+20:04:15  [mysql] 	Attempting to stop MySQL app...
+20:04:16  [mysql] 	Status change detected: stopped
+23:36:36  [Apache] 	Problem detected!
+23:36:36  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+23:36:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+23:36:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+23:36:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+23:36:36  [Apache] 	Attempting to start Apache app...
+23:36:37  [Apache] 	Status change detected: running
+23:36:37  [mysql] 	Attempting to start MySQL app...
+23:36:38  [mysql] 	Status change detected: running
+23:49:01  [Apache] 	Attempting to stop Apache (PID: 4004)
+23:49:01  [Apache] 	Attempting to stop Apache (PID: 5128)
+23:49:01  [Apache] 	Status change detected: stopped
+23:49:01  [mysql] 	Attempting to stop MySQL app...
+23:49:01  [mysql] 	Status change detected: stopped
+02:59:11  [main] 	Deinitializing Modules
+02:59:11  [main] 	Deinitializing Control Panel
+
+15:36:06  [main] 	Initializing Control Panel
+15:36:06  [main] 	Windows Version:  Home  64-bit
+15:36:06  [main] 	XAMPP Version: 7.4.4
+15:36:06  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:36:06  [main] 	Running with Administrator rights - good!
+15:36:06  [main] 	XAMPP Installation Directory: "e:\xampp\"
+15:36:06  [main] 	Checking for prerequisites
+15:36:07  [main] 	All prerequisites found
+15:36:07  [main] 	Initializing Modules
+15:36:07  [Apache] 	Problem detected!
+15:36:07  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+15:36:07  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:36:07  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:36:07  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:36:07  [main] 	Starting Check-Timer
+15:36:07  [main] 	Control Panel Ready
+15:36:08  [Apache] 	Problem detected!
+15:36:08  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+15:36:08  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:36:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:36:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:36:08  [Apache] 	Attempting to start Apache app...
+15:36:09  [Apache] 	Status change detected: running
+15:36:09  [mysql] 	Attempting to start MySQL app...
+15:36:10  [mysql] 	Status change detected: running
+16:20:43  [Apache] 	Attempting to stop Apache (PID: 1668)
+16:20:43  [Apache] 	Attempting to stop Apache (PID: 6120)
+16:20:43  [Apache] 	Status change detected: stopped
+16:20:43  [mysql] 	Attempting to stop MySQL app...
+16:20:44  [mysql] 	Status change detected: stopped
+18:11:04  [Apache] 	Problem detected!
+18:11:04  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:11:04  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:11:04  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:11:04  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:11:04  [Apache] 	Attempting to start Apache app...
+18:11:04  [Apache] 	Status change detected: running
+18:11:04  [mysql] 	Attempting to start MySQL app...
+18:11:04  [mysql] 	Status change detected: running
+19:28:10  [Apache] 	Attempting to stop Apache (PID: 220)
+19:28:10  [Apache] 	Attempting to stop Apache (PID: 3692)
+19:28:10  [Apache] 	Status change detected: stopped
+19:28:11  [mysql] 	Attempting to stop MySQL app...
+19:28:11  [mysql] 	Status change detected: stopped
+19:30:42  [Apache] 	Problem detected!
+19:30:42  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:30:42  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:30:42  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:30:42  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:30:42  [Apache] 	Attempting to start Apache app...
+19:30:42  [Apache] 	Status change detected: running
+19:30:42  [mysql] 	Attempting to start MySQL app...
+19:30:42  [mysql] 	Status change detected: running
+19:34:48  [Apache] 	Attempting to stop Apache (PID: 9268)
+19:34:48  [Apache] 	Attempting to stop Apache (PID: 3828)
+19:34:49  [Apache] 	Status change detected: stopped
+19:34:49  [mysql] 	Attempting to stop MySQL app...
+19:34:49  [mysql] 	Status change detected: stopped
+19:36:25  [Apache] 	Problem detected!
+19:36:25  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:36:25  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:36:25  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:36:25  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:36:25  [Apache] 	Attempting to start Apache app...
+19:36:25  [Apache] 	Status change detected: running
+19:36:25  [mysql] 	Attempting to start MySQL app...
+19:36:25  [mysql] 	Status change detected: running
+19:37:56  [Apache] 	Attempting to stop Apache (PID: 17500)
+19:37:56  [Apache] 	Attempting to stop Apache (PID: 8900)
+19:37:56  [Apache] 	Status change detected: stopped
+19:37:57  [mysql] 	Attempting to stop MySQL app...
+19:37:57  [mysql] 	Status change detected: stopped
+19:39:37  [Apache] 	Problem detected!
+19:39:37  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:39:37  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:39:37  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:37  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:39:37  [Apache] 	Attempting to start Apache app...
+19:39:38  [mysql] 	Attempting to start MySQL app...
+19:39:38  [Apache] 	Status change detected: running
+19:39:38  [mysql] 	Status change detected: running
+19:39:58  [Apache] 	Attempting to stop Apache (PID: 15400)
+19:39:58  [Apache] 	Attempting to stop Apache (PID: 10900)
+19:39:59  [Apache] 	Status change detected: stopped
+19:39:59  [mysql] 	Attempting to stop MySQL app...
+19:39:59  [mysql] 	Status change detected: stopped
+19:40:40  [Apache] 	Problem detected!
+19:40:40  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:40:40  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:40:40  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:40:40  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:40:40  [Apache] 	Attempting to start Apache app...
+19:40:40  [Apache] 	Status change detected: running
+19:40:41  [mysql] 	Attempting to start MySQL app...
+19:40:41  [mysql] 	Status change detected: running
+19:44:36  [Apache] 	Attempting to stop Apache (PID: 8312)
+19:44:36  [Apache] 	Attempting to stop Apache (PID: 6400)
+19:44:36  [Apache] 	Status change detected: stopped
+19:44:37  [mysql] 	Attempting to stop MySQL app...
+19:44:37  [mysql] 	Status change detected: stopped
+19:44:45  [Apache] 	Problem detected!
+19:44:45  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:44:45  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:44:45  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:44:45  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:44:45  [Apache] 	Attempting to start Apache app...
+19:44:45  [Apache] 	Status change detected: running
+19:44:46  [mysql] 	Attempting to start MySQL app...
+19:44:46  [mysql] 	Status change detected: running
+19:50:09  [Apache] 	Attempting to stop Apache (PID: 12496)
+19:50:09  [Apache] 	Attempting to stop Apache (PID: 18212)
+19:50:09  [Apache] 	Status change detected: stopped
+19:50:09  [mysql] 	Attempting to stop MySQL app...
+19:50:09  [mysql] 	Status change detected: stopped
+21:47:24  [Apache] 	Problem detected!
+21:47:24  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:47:24  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:47:24  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:47:24  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:47:24  [Apache] 	Attempting to start Apache app...
+21:47:25  [mysql] 	Attempting to start MySQL app...
+21:47:25  [Apache] 	Status change detected: running
+21:47:25  [mysql] 	Status change detected: running
+22:22:53  [Apache] 	Attempting to stop Apache (PID: 4472)
+22:22:53  [Apache] 	Attempting to stop Apache (PID: 17036)
+22:22:53  [Apache] 	Status change detected: stopped
+22:22:53  [mysql] 	Attempting to stop MySQL app...
+22:22:54  [mysql] 	Status change detected: stopped
+22:24:12  [Apache] 	Problem detected!
+22:24:12  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:24:12  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:24:12  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:24:12  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:24:12  [Apache] 	Attempting to start Apache app...
+22:24:13  [Apache] 	Status change detected: running
+22:24:13  [mysql] 	Attempting to start MySQL app...
+22:24:13  [mysql] 	Status change detected: running
+22:25:01  [Apache] 	Attempting to stop Apache (PID: 15972)
+22:25:01  [Apache] 	Attempting to stop Apache (PID: 15928)
+22:25:02  [Apache] 	Status change detected: stopped
+22:25:02  [mysql] 	Attempting to stop MySQL app...
+22:25:02  [mysql] 	Status change detected: stopped
+22:25:16  [Apache] 	Problem detected!
+22:25:16  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:25:16  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:25:16  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:25:16  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:25:16  [Apache] 	Attempting to start Apache app...
+22:25:16  [Apache] 	Status change detected: running
+22:25:16  [mysql] 	Attempting to start MySQL app...
+22:25:17  [mysql] 	Status change detected: running
+22:26:43  [Apache] 	Attempting to stop Apache (PID: 11912)
+22:26:43  [Apache] 	Attempting to stop Apache (PID: 6164)
+22:26:43  [Apache] 	Status change detected: stopped
+22:26:44  [mysql] 	Attempting to stop MySQL app...
+22:26:44  [mysql] 	Status change detected: stopped
+22:27:35  [Apache] 	Problem detected!
+22:27:35  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:27:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:27:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:27:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:27:35  [Apache] 	Attempting to start Apache app...
+22:27:35  [Apache] 	Status change detected: running
+22:27:35  [mysql] 	Attempting to start MySQL app...
+22:27:36  [mysql] 	Status change detected: running
+22:47:36  [Apache] 	Attempting to stop Apache (PID: 7012)
+22:47:36  [Apache] 	Attempting to stop Apache (PID: 6440)
+22:47:37  [Apache] 	Status change detected: stopped
+22:47:37  [mysql] 	Attempting to stop MySQL app...
+22:47:37  [mysql] 	Status change detected: stopped
+22:47:44  [Apache] 	Problem detected!
+22:47:44  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+22:47:44  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:47:44  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:47:44  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:47:44  [Apache] 	Attempting to start Apache app...
+22:47:45  [Apache] 	Status change detected: running
+22:47:45  [mysql] 	Attempting to start MySQL app...
+22:47:45  [mysql] 	Status change detected: running
+23:00:11  [Apache] 	Attempting to stop Apache (PID: 17488)
+23:00:11  [Apache] 	Attempting to stop Apache (PID: 18036)
+23:00:11  [Apache] 	Status change detected: stopped
+23:00:11  [mysql] 	Attempting to stop MySQL app...
+23:00:12  [mysql] 	Status change detected: stopped
+01:54:20  [Apache] 	Problem detected!
+01:54:20  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+01:54:20  [Apache] 	Apache WILL NOT start without the configured ports free!
+01:54:20  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+01:54:20  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+01:54:20  [Apache] 	Attempting to start Apache app...
+01:54:20  [Apache] 	Status change detected: running
+01:54:21  [mysql] 	Attempting to start MySQL app...
+01:54:21  [mysql] 	Status change detected: running
+01:57:48  [mysql] 	Attempting to stop MySQL app...
+01:57:48  [mysql] 	Status change detected: stopped
+01:57:48  [Apache] 	Attempting to stop Apache (PID: 17604)
+01:57:48  [Apache] 	Attempting to stop Apache (PID: 4296)
+01:57:49  [Apache] 	Status change detected: stopped
+02:05:28  [Apache] 	Problem detected!
+02:05:28  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+02:05:28  [Apache] 	Apache WILL NOT start without the configured ports free!
+02:05:28  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+02:05:28  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+02:05:28  [Apache] 	Attempting to start Apache app...
+02:05:29  [Apache] 	Status change detected: running
+02:05:29  [mysql] 	Attempting to start MySQL app...
+02:05:29  [mysql] 	Status change detected: running
+02:16:24  [mysql] 	Attempting to stop MySQL app...
+02:16:24  [mysql] 	Status change detected: stopped
+02:16:25  [Apache] 	Attempting to stop Apache (PID: 12156)
+02:16:25  [Apache] 	Attempting to stop Apache (PID: 15684)
+02:16:25  [Apache] 	Status change detected: stopped
+02:18:02  [Apache] 	Attempting to start Apache app...
+02:18:03  [Apache] 	Status change detected: running
+02:18:03  [mysql] 	Attempting to start MySQL app...
+02:18:03  [mysql] 	Status change detected: running
+02:18:23  [Apache] 	Attempting to stop Apache (PID: 17580)
+02:18:23  [Apache] 	Attempting to stop Apache (PID: 13440)
+02:18:23  [Apache] 	Status change detected: stopped
+02:18:24  [mysql] 	Attempting to stop MySQL app...
+02:18:24  [mysql] 	Status change detected: stopped
+02:18:31  [Apache] 	Attempting to start Apache app...
+02:18:31  [Apache] 	Status change detected: running
+02:18:31  [mysql] 	Attempting to start MySQL app...
+02:18:32  [mysql] 	Status change detected: running
+02:25:06  [Apache] 	Attempting to stop Apache (PID: 3532)
+02:25:06  [Apache] 	Attempting to stop Apache (PID: 8892)
+02:25:06  [Apache] 	Status change detected: stopped
+02:25:06  [mysql] 	Attempting to stop MySQL app...
+02:25:07  [mysql] 	Status change detected: stopped
+02:25:39  [Apache] 	Problem detected!
+02:25:39  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+02:25:39  [Apache] 	Apache WILL NOT start without the configured ports free!
+02:25:39  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+02:25:39  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+02:25:39  [Apache] 	Attempting to start Apache app...
+02:25:39  [Apache] 	Status change detected: running
+02:25:39  [mysql] 	Attempting to start MySQL app...
+02:25:40  [mysql] 	Status change detected: running
+02:26:35  [Apache] 	Attempting to stop Apache (PID: 15464)
+02:26:35  [Apache] 	Attempting to stop Apache (PID: 12460)
+02:26:35  [Apache] 	Status change detected: stopped
+02:26:36  [mysql] 	Attempting to stop MySQL app...
+02:26:36  [mysql] 	Status change detected: stopped
+03:26:25  [main] 	Deinitializing Modules
+03:26:25  [main] 	Deinitializing Control Panel
+
+01:09:19  [main] 	Initializing Control Panel
+01:09:19  [main] 	Windows Version:  Home  64-bit
+01:09:19  [main] 	XAMPP Version: 7.4.4
+01:09:19  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+01:09:19  [main] 	Running with Administrator rights - good!
+01:09:19  [main] 	XAMPP Installation Directory: "e:\xampp\"
+01:09:19  [main] 	Checking for prerequisites
+01:09:20  [main] 	All prerequisites found
+01:09:20  [main] 	Initializing Modules
+01:09:20  [Apache] 	Problem detected!
+01:09:20  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+01:09:20  [Apache] 	Apache WILL NOT start without the configured ports free!
+01:09:20  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+01:09:20  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+01:09:20  [main] 	Starting Check-Timer
+01:09:20  [main] 	Control Panel Ready
+01:09:47  [Apache] 	Problem detected!
+01:09:47  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+01:09:47  [Apache] 	Apache WILL NOT start without the configured ports free!
+01:09:47  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+01:09:47  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+01:09:47  [Apache] 	Attempting to start Apache app...
+01:09:47  [Apache] 	Status change detected: running
+01:09:47  [mysql] 	Attempting to start MySQL app...
+01:09:48  [mysql] 	Status change detected: running
+01:22:16  [Apache] 	Attempting to stop Apache (PID: 10648)
+01:22:16  [Apache] 	Attempting to stop Apache (PID: 2632)
+01:22:16  [Apache] 	Status change detected: stopped
+01:22:17  [mysql] 	Attempting to stop MySQL app...
+01:22:17  [mysql] 	Status change detected: stopped
+01:22:53  [Apache] 	Attempting to start Apache app...
+01:22:53  [Apache] 	Status change detected: running
+01:22:53  [mysql] 	Attempting to start MySQL app...
+01:22:53  [mysql] 	Status change detected: running
+01:33:02  [Apache] 	Attempting to stop Apache (PID: 12628)
+01:33:02  [Apache] 	Attempting to stop Apache (PID: 13268)
+01:33:02  [Apache] 	Status change detected: stopped
+01:33:02  [mysql] 	Attempting to stop MySQL app...
+01:33:03  [mysql] 	Status change detected: stopped
+01:34:15  [Apache] 	Attempting to start Apache app...
+01:34:15  [Apache] 	Status change detected: running
+01:34:15  [mysql] 	Attempting to start MySQL app...
+01:34:16  [mysql] 	Status change detected: running
+01:35:41  [Apache] 	Attempting to stop Apache (PID: 11660)
+01:35:41  [Apache] 	Attempting to stop Apache (PID: 15132)
+01:35:41  [Apache] 	Status change detected: stopped
+01:35:41  [mysql] 	Attempting to stop MySQL app...
+01:35:42  [mysql] 	Status change detected: stopped
+01:35:57  [Apache] 	Status change detected: running
+01:35:57  [mysql] 	Status change detected: running
+01:37:50  [Apache] 	Status change detected: stopped
+01:37:51  [mysql] 	Status change detected: stopped
+01:38:00  [Apache] 	Status change detected: running
+01:38:00  [mysql] 	Status change detected: running
+01:56:17  [Apache] 	Status change detected: stopped
+01:56:18  [mysql] 	Status change detected: stopped
+01:58:56  [Apache] 	Status change detected: running
+01:58:56  [mysql] 	Status change detected: running
+02:01:32  [Apache] 	Status change detected: stopped
+02:01:33  [mysql] 	Status change detected: stopped
+02:01:38  [Apache] 	Status change detected: running
+02:01:38  [mysql] 	Status change detected: running
+02:16:59  [Apache] 	Status change detected: stopped
+02:16:59  [mysql] 	Status change detected: stopped
+02:17:43  [Apache] 	Status change detected: running
+02:17:43  [mysql] 	Status change detected: running
+02:34:31  [Apache] 	Status change detected: stopped
+02:34:31  [mysql] 	Status change detected: stopped
+03:49:47  [Apache] 	Status change detected: running
+03:49:47  [mysql] 	Status change detected: running
+03:50:09  [Apache] 	Status change detected: stopped
+03:50:10  [mysql] 	Status change detected: stopped
+03:50:16  [Apache] 	Status change detected: running
+03:50:16  [mysql] 	Status change detected: running
+03:55:09  [Apache] 	Status change detected: stopped
+03:55:10  [mysql] 	Status change detected: stopped
+04:03:39  [Apache] 	Status change detected: running
+04:03:40  [mysql] 	Status change detected: running
+05:09:52  [Apache] 	Status change detected: stopped
+05:09:53  [filezilla] 	Status change detected: running
+05:09:56  [mysql] 	Status change detected: stopped
+05:09:58  [filezilla] 	Status change detected: stopped
+05:09:58  [filezilla] 	Error: FileZilla shutdown unexpectedly.
+05:09:58  [filezilla] 	This may be due to a blocked port, missing dependencies, 
+05:09:58  [filezilla] 	improper privileges, a crash, or a shutdown by another method.
+05:09:58  [filezilla] 	Press the Logs button to view error logs and check
+05:09:58  [filezilla] 	the Windows Event Viewer for more clues
+05:09:58  [filezilla] 	If you need more help, copy and post this
+05:09:58  [filezilla] 	entire log window on the forums
+05:10:39  [main] 	Deinitializing Modules
+05:10:39  [main] 	Deinitializing Control Panel
+
+05:06:04  [main] 	Initializing Control Panel
+05:06:04  [main] 	Windows Version:  Home  64-bit
+05:06:04  [main] 	XAMPP Version: 7.4.4
+05:06:04  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+05:06:04  [main] 	Running with Administrator rights - good!
+05:06:04  [main] 	XAMPP Installation Directory: "e:\xampp\"
+05:06:04  [main] 	Checking for prerequisites
+05:06:04  [main] 	All prerequisites found
+05:06:04  [main] 	Initializing Modules
+05:06:04  [Apache] 	Problem detected!
+05:06:04  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:06:04  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:06:04  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:06:04  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:06:04  [Apache] 	XAMPP Apache is already running on port 443
+05:06:04  [main] 	Starting Check-Timer
+05:06:04  [main] 	Control Panel Ready
+05:06:05  [Apache] 	Attempting to stop Apache (PID: 6024)
+05:06:05  [Apache] 	Attempting to stop Apache (PID: 16916)
+05:06:05  [Apache] 	Status change detected: stopped
+05:06:06  [mysql] 	Attempting to start MySQL app...
+05:06:06  [mysql] 	Status change detected: running
+05:06:08  [Apache] 	Problem detected!
+05:06:08  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:06:08  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:06:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:06:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:06:08  [Apache] 	Attempting to start Apache app...
+05:06:08  [Apache] 	Status change detected: running
+05:06:08  [mysql] 	Status change detected: stopped
+05:06:08  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:08  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:08  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:08  [mysql] 	Press the Logs button to view error logs and check
+05:06:08  [mysql] 	the Windows Event Viewer for more clues
+05:06:08  [mysql] 	If you need more help, copy and post this
+05:06:08  [mysql] 	entire log window on the forums
+05:06:13  [mysql] 	Attempting to start MySQL app...
+05:06:13  [mysql] 	Status change detected: running
+05:06:15  [mysql] 	Status change detected: stopped
+05:06:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:15  [mysql] 	Press the Logs button to view error logs and check
+05:06:15  [mysql] 	the Windows Event Viewer for more clues
+05:06:15  [mysql] 	If you need more help, copy and post this
+05:06:15  [mysql] 	entire log window on the forums
+05:06:22  [mysql] 	Attempting to start MySQL app...
+05:06:22  [mysql] 	Status change detected: running
+05:06:26  [mysql] 	Status change detected: stopped
+05:06:26  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:26  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:26  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:26  [mysql] 	Press the Logs button to view error logs and check
+05:06:26  [mysql] 	the Windows Event Viewer for more clues
+05:06:26  [mysql] 	If you need more help, copy and post this
+05:06:26  [mysql] 	entire log window on the forums
+05:06:31  [Apache] 	Attempting to stop Apache (PID: 10600)
+05:06:31  [Apache] 	Attempting to stop Apache (PID: 13420)
+05:06:31  [Apache] 	Status change detected: stopped
+05:06:37  [main] 	Deinitializing Modules
+05:06:37  [main] 	Deinitializing Control Panel
+
+05:06:43  [main] 	Initializing Control Panel
+05:06:43  [main] 	Windows Version:  Home  64-bit
+05:06:43  [main] 	XAMPP Version: 7.4.4
+05:06:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+05:06:43  [main] 	Running with Administrator rights - good!
+05:06:43  [main] 	XAMPP Installation Directory: "e:\xampp\"
+05:06:43  [main] 	Checking for prerequisites
+05:06:43  [main] 	All prerequisites found
+05:06:43  [main] 	Initializing Modules
+05:06:43  [Apache] 	Problem detected!
+05:06:43  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:06:43  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:06:43  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:06:43  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:06:43  [main] 	Starting Check-Timer
+05:06:43  [main] 	Control Panel Ready
+05:06:45  [Apache] 	Problem detected!
+05:06:45  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:06:45  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:06:45  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:06:45  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:06:45  [Apache] 	Attempting to start Apache app...
+05:06:45  [Apache] 	Status change detected: running
+05:06:46  [mysql] 	Attempting to start MySQL app...
+05:06:46  [mysql] 	Status change detected: running
+05:06:50  [mysql] 	Status change detected: stopped
+05:06:50  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:50  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:50  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:50  [mysql] 	Press the Logs button to view error logs and check
+05:06:50  [mysql] 	the Windows Event Viewer for more clues
+05:06:50  [mysql] 	If you need more help, copy and post this
+05:06:50  [mysql] 	entire log window on the forums
+05:07:00  [main] 	Deinitializing Modules
+05:07:00  [main] 	Deinitializing Control Panel
+
+18:31:00  [main] 	Initializing Control Panel
+18:31:00  [main] 	Windows Version:  Home  64-bit
+18:31:00  [main] 	XAMPP Version: 7.4.4
+18:31:00  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:31:00  [main] 	Running with Administrator rights - good!
+18:31:00  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:31:00  [main] 	Checking for prerequisites
+18:31:01  [main] 	All prerequisites found
+18:31:01  [main] 	Initializing Modules
+18:31:01  [Apache] 	Problem detected!
+18:31:01  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:31:01  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:31:01  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:31:01  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:31:01  [main] 	Starting Check-Timer
+18:31:01  [main] 	Control Panel Ready
+18:31:02  [Apache] 	Problem detected!
+18:31:02  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+18:31:02  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:31:02  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:31:02  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:31:02  [Apache] 	Attempting to start Apache app...
+18:31:02  [Apache] 	Status change detected: running
+18:31:02  [mysql] 	Attempting to start MySQL app...
+18:31:03  [mysql] 	Status change detected: running
+19:23:29  [Apache] 	Attempting to stop Apache (PID: 4792)
+19:23:29  [Apache] 	Attempting to stop Apache (PID: 9060)
+19:23:29  [mysql] 	Attempting to stop MySQL app...
+19:23:29  [Apache] 	Status change detected: stopped
+19:23:29  [mysql] 	Status change detected: stopped
+19:23:34  [Apache] 	Problem detected!
+19:23:34  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+19:23:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:23:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:23:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:23:34  [Apache] 	Attempting to start Apache app...
+19:23:34  [Apache] 	Status change detected: running
+19:23:34  [mysql] 	Attempting to start MySQL app...
+19:23:34  [mysql] 	Status change detected: running
+19:57:31  [Apache] 	Attempting to stop Apache (PID: 13808)
+19:57:31  [Apache] 	Attempting to stop Apache (PID: 11896)
+19:57:31  [Apache] 	Status change detected: stopped
+19:57:32  [mysql] 	Attempting to stop MySQL app...
+19:57:32  [mysql] 	Status change detected: stopped
+20:00:14  [Apache] 	Problem detected!
+20:00:14  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+20:00:14  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:00:14  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:00:14  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:00:14  [Apache] 	Attempting to start Apache app...
+20:00:14  [Apache] 	Status change detected: running
+20:00:14  [filezilla] 	Attempting to start FileZilla app...
+20:00:15  [filezilla] 	Status change detected: running
+20:00:15  [filezilla] 	Attempting to stop FileZilla app...
+20:00:16  [filezilla] 	Status change detected: stopped
+20:00:16  [mysql] 	Attempting to start MySQL app...
+20:00:16  [mysql] 	Status change detected: running
+20:04:00  [Apache] 	Attempting to stop Apache (PID: 9928)
+20:04:00  [Apache] 	Attempting to stop Apache (PID: 17500)
+20:04:01  [Apache] 	Status change detected: stopped
+20:04:01  [mysql] 	Attempting to stop MySQL app...
+20:04:01  [mysql] 	Status change detected: stopped
+22:14:52  [Apache] 	Attempting to start Apache app...
+22:14:52  [Apache] 	Status change detected: running
+22:14:53  [mysql] 	Attempting to start MySQL app...
+22:14:53  [mysql] 	Status change detected: running
+00:45:24  [Apache] 	Attempting to stop Apache (PID: 16056)
+00:45:24  [Apache] 	Attempting to stop Apache (PID: 15964)
+00:45:24  [Apache] 	Status change detected: stopped
+00:45:24  [mysql] 	Attempting to stop MySQL app...
+00:45:24  [mysql] 	Status change detected: stopped
+02:47:24  [Apache] 	Attempting to start Apache app...
+02:47:26  [mysql] 	Attempting to start MySQL app...
+02:47:27  [Apache] 	Status change detected: running
+02:47:27  [mysql] 	Status change detected: running
+04:34:12  [Apache] 	Attempting to stop Apache (PID: 7648)
+04:34:12  [Apache] 	Attempting to stop Apache (PID: 2636)
+04:34:12  [Apache] 	Status change detected: stopped
+04:34:13  [mysql] 	Attempting to stop MySQL app...
+04:34:13  [mysql] 	Status change detected: stopped
+04:35:52  [Apache] 	Problem detected!
+04:35:52  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+04:35:52  [Apache] 	Apache WILL NOT start without the configured ports free!
+04:35:52  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+04:35:52  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+04:35:52  [Apache] 	Attempting to start Apache app...
+04:35:52  [Apache] 	Status change detected: running
+04:35:53  [mysql] 	Attempting to start MySQL app...
+04:35:53  [mysql] 	Status change detected: running
+04:36:03  [Apache] 	Attempting to stop Apache (PID: 3248)
+04:36:03  [Apache] 	Attempting to stop Apache (PID: 8256)
+04:36:03  [Apache] 	Status change detected: stopped
+04:36:03  [mysql] 	Attempting to stop MySQL app...
+04:36:03  [mysql] 	Status change detected: stopped
+04:36:12  [Apache] 	Problem detected!
+04:36:12  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+04:36:12  [Apache] 	Apache WILL NOT start without the configured ports free!
+04:36:12  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+04:36:12  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+04:36:12  [Apache] 	Attempting to start Apache app...
+04:36:12  [Apache] 	Status change detected: running
+04:36:12  [mysql] 	Attempting to start MySQL app...
+04:36:13  [mysql] 	Status change detected: running
+04:37:14  [Apache] 	Attempting to stop Apache (PID: 14532)
+04:37:14  [Apache] 	Attempting to stop Apache (PID: 11480)
+04:37:15  [Apache] 	Status change detected: stopped
+04:37:15  [mysql] 	Attempting to stop MySQL app...
+04:37:15  [mysql] 	Status change detected: stopped
+04:46:47  [Apache] 	Problem detected!
+04:46:47  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+04:46:47  [Apache] 	Apache WILL NOT start without the configured ports free!
+04:46:47  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+04:46:47  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+04:46:47  [Apache] 	Attempting to start Apache app...
+04:46:47  [Apache] 	Status change detected: running
+04:46:47  [mysql] 	Attempting to start MySQL app...
+04:46:47  [mysql] 	Status change detected: running
+05:00:29  [Apache] 	Attempting to stop Apache (PID: 13844)
+05:00:29  [Apache] 	Attempting to stop Apache (PID: 10048)
+05:00:29  [Apache] 	Status change detected: stopped
+05:00:29  [mysql] 	Attempting to stop MySQL app...
+05:00:29  [mysql] 	Status change detected: stopped
+05:00:33  [Apache] 	Problem detected!
+05:00:33  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:00:33  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:00:33  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:00:33  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:00:33  [Apache] 	Attempting to start Apache app...
+05:00:34  [Apache] 	Status change detected: running
+05:00:34  [mysql] 	Attempting to start MySQL app...
+05:00:34  [mysql] 	Status change detected: running
+05:03:41  [Apache] 	Attempting to stop Apache (PID: 13064)
+05:03:41  [Apache] 	Attempting to stop Apache (PID: 1048)
+05:03:41  [Apache] 	Status change detected: stopped
+05:03:42  [mysql] 	Attempting to stop MySQL app...
+05:03:42  [mysql] 	Status change detected: stopped
+05:03:48  [Apache] 	Problem detected!
+05:03:48  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:03:48  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:03:48  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:03:48  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:03:48  [Apache] 	Attempting to start Apache app...
+05:03:49  [Apache] 	Status change detected: running
+05:03:49  [mysql] 	Attempting to start MySQL app...
+05:03:49  [mysql] 	Status change detected: running
+05:03:53  [mysql] 	Status change detected: stopped
+05:03:53  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:03:53  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:03:53  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:03:53  [mysql] 	Press the Logs button to view error logs and check
+05:03:53  [mysql] 	the Windows Event Viewer for more clues
+05:03:53  [mysql] 	If you need more help, copy and post this
+05:03:53  [mysql] 	entire log window on the forums
+05:04:09  [mysql] 	Attempting to start MySQL app...
+05:04:09  [mysql] 	Status change detected: running
+05:04:12  [mysql] 	Status change detected: stopped
+05:04:12  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:04:12  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:04:12  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:04:12  [mysql] 	Press the Logs button to view error logs and check
+05:04:12  [mysql] 	the Windows Event Viewer for more clues
+05:04:12  [mysql] 	If you need more help, copy and post this
+05:04:12  [mysql] 	entire log window on the forums
+05:04:18  [mysql] 	Attempting to start MySQL app...
+05:04:18  [mysql] 	Status change detected: running
+05:04:22  [mysql] 	Status change detected: stopped
+05:04:22  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:04:22  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:04:22  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:04:22  [mysql] 	Press the Logs button to view error logs and check
+05:04:22  [mysql] 	the Windows Event Viewer for more clues
+05:04:22  [mysql] 	If you need more help, copy and post this
+05:04:22  [mysql] 	entire log window on the forums
+05:04:24  [Apache] 	Attempting to stop Apache (PID: 7172)
+05:04:24  [Apache] 	Attempting to stop Apache (PID: 2852)
+05:04:24  [Apache] 	Status change detected: stopped
+05:04:28  [Apache] 	Problem detected!
+05:04:28  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:04:28  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:04:28  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:04:28  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:04:28  [Apache] 	Attempting to start Apache app...
+05:04:29  [Apache] 	Status change detected: running
+05:04:29  [mysql] 	Attempting to start MySQL app...
+05:04:29  [mysql] 	Status change detected: running
+05:04:32  [mysql] 	Status change detected: stopped
+05:04:32  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:04:32  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:04:32  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:04:32  [mysql] 	Press the Logs button to view error logs and check
+05:04:32  [mysql] 	the Windows Event Viewer for more clues
+05:04:32  [mysql] 	If you need more help, copy and post this
+05:04:32  [mysql] 	entire log window on the forums
+05:04:53  [mysql] 	Attempting to start MySQL app...
+05:04:54  [mysql] 	Status change detected: running
+05:04:57  [mysql] 	Status change detected: stopped
+05:04:57  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:04:57  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:04:57  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:04:57  [mysql] 	Press the Logs button to view error logs and check
+05:04:57  [mysql] 	the Windows Event Viewer for more clues
+05:04:57  [mysql] 	If you need more help, copy and post this
+05:04:57  [mysql] 	entire log window on the forums
+05:05:52  [Apache] 	Attempting to stop Apache (PID: 3672)
+05:05:52  [Apache] 	Attempting to stop Apache (PID: 17972)
+05:05:52  [Apache] 	Status change detected: stopped
+05:05:53  [mysql] 	Attempting to start MySQL app...
+05:05:53  [mysql] 	Status change detected: running
+05:05:54  [Apache] 	Problem detected!
+05:05:54  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:05:54  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:05:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:05:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:05:54  [Apache] 	Attempting to start Apache app...
+05:05:54  [Apache] 	Status change detected: running
+05:05:56  [mysql] 	Status change detected: stopped
+05:05:56  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:05:56  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:05:56  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:05:56  [mysql] 	Press the Logs button to view error logs and check
+05:05:56  [mysql] 	the Windows Event Viewer for more clues
+05:05:56  [mysql] 	If you need more help, copy and post this
+05:05:56  [mysql] 	entire log window on the forums
+05:06:05  [Apache] 	Status change detected: stopped
+05:06:05  [Apache] 	Error: Apache shutdown unexpectedly.
+05:06:05  [Apache] 	This may be due to a blocked port, missing dependencies, 
+05:06:05  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+05:06:05  [Apache] 	Press the Logs button to view error logs and check
+05:06:05  [Apache] 	the Windows Event Viewer for more clues
+05:06:05  [Apache] 	If you need more help, copy and post this
+05:06:05  [Apache] 	entire log window on the forums
+05:06:06  [mysql] 	Status change detected: running
+05:06:08  [Apache] 	Status change detected: running
+05:06:08  [mysql] 	Status change detected: stopped
+05:06:08  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:08  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:08  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:08  [mysql] 	Press the Logs button to view error logs and check
+05:06:08  [mysql] 	the Windows Event Viewer for more clues
+05:06:08  [mysql] 	If you need more help, copy and post this
+05:06:08  [mysql] 	entire log window on the forums
+05:06:13  [mysql] 	Status change detected: running
+05:06:15  [mysql] 	Status change detected: stopped
+05:06:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:15  [mysql] 	Press the Logs button to view error logs and check
+05:06:15  [mysql] 	the Windows Event Viewer for more clues
+05:06:15  [mysql] 	If you need more help, copy and post this
+05:06:15  [mysql] 	entire log window on the forums
+05:06:22  [mysql] 	Status change detected: running
+05:06:26  [mysql] 	Status change detected: stopped
+05:06:26  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:26  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:26  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:26  [mysql] 	Press the Logs button to view error logs and check
+05:06:26  [mysql] 	the Windows Event Viewer for more clues
+05:06:26  [mysql] 	If you need more help, copy and post this
+05:06:26  [mysql] 	entire log window on the forums
+05:06:31  [Apache] 	Status change detected: stopped
+05:06:31  [Apache] 	Error: Apache shutdown unexpectedly.
+05:06:31  [Apache] 	This may be due to a blocked port, missing dependencies, 
+05:06:31  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+05:06:31  [Apache] 	Press the Logs button to view error logs and check
+05:06:31  [Apache] 	the Windows Event Viewer for more clues
+05:06:31  [Apache] 	If you need more help, copy and post this
+05:06:31  [Apache] 	entire log window on the forums
+05:06:45  [Apache] 	Status change detected: running
+05:06:46  [mysql] 	Status change detected: running
+05:06:51  [mysql] 	Status change detected: stopped
+05:06:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:06:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:06:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:06:51  [mysql] 	Press the Logs button to view error logs and check
+05:06:51  [mysql] 	the Windows Event Viewer for more clues
+05:06:51  [mysql] 	If you need more help, copy and post this
+05:06:51  [mysql] 	entire log window on the forums
+05:07:02  [main] 	Deinitializing Modules
+05:07:02  [main] 	Deinitializing Control Panel
+
+05:12:33  [main] 	Initializing Control Panel
+05:12:33  [main] 	Windows Version:  Home  64-bit
+05:12:33  [main] 	XAMPP Version: 7.4.4
+05:12:33  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+05:12:33  [main] 	Running with Administrator rights - good!
+05:12:33  [main] 	XAMPP Installation Directory: "e:\xampp\"
+05:12:33  [main] 	Checking for prerequisites
+05:12:33  [main] 	All prerequisites found
+05:12:33  [main] 	Initializing Modules
+05:12:33  [Apache] 	Problem detected!
+05:12:33  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:12:33  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:12:33  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:12:33  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:12:33  [Apache] 	XAMPP Apache is already running on port 443
+05:12:33  [main] 	Starting Check-Timer
+05:12:33  [main] 	Control Panel Ready
+05:12:37  [Apache] 	Attempting to stop Apache (PID: 9584)
+05:12:37  [Apache] 	Attempting to stop Apache (PID: 12080)
+05:12:38  [Apache] 	Status change detected: stopped
+05:12:39  [Apache] 	Problem detected!
+05:12:39  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:12:39  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:12:39  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:12:39  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:12:39  [Apache] 	Attempting to start Apache app...
+05:12:40  [Apache] 	Status change detected: running
+05:12:45  [mysql] 	Attempting to start MySQL app...
+05:12:46  [mysql] 	Status change detected: running
+05:12:50  [mysql] 	Status change detected: stopped
+05:12:50  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:12:50  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:12:50  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:12:50  [mysql] 	Press the Logs button to view error logs and check
+05:12:50  [mysql] 	the Windows Event Viewer for more clues
+05:12:50  [mysql] 	If you need more help, copy and post this
+05:12:50  [mysql] 	entire log window on the forums
+05:14:15  [Apache] 	Attempting to stop Apache (PID: 11320)
+05:14:15  [Apache] 	Attempting to stop Apache (PID: 12436)
+05:14:15  [Apache] 	Status change detected: stopped
+05:14:49  [Apache] 	Problem detected!
+05:14:49  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+05:14:49  [Apache] 	Apache WILL NOT start without the configured ports free!
+05:14:49  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+05:14:49  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+05:14:49  [Apache] 	Attempting to start Apache app...
+05:14:50  [Apache] 	Status change detected: running
+05:16:48  [mysql] 	Attempting to start MySQL app...
+05:16:49  [mysql] 	Status change detected: running
+05:16:53  [mysql] 	Status change detected: stopped
+05:16:53  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:16:53  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:16:53  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:16:53  [mysql] 	Press the Logs button to view error logs and check
+05:16:53  [mysql] 	the Windows Event Viewer for more clues
+05:16:53  [mysql] 	If you need more help, copy and post this
+05:16:53  [mysql] 	entire log window on the forums
+05:18:51  [mysql] 	Attempting to start MySQL app...
+05:18:51  [mysql] 	Status change detected: running
+05:18:55  [mysql] 	Status change detected: stopped
+05:18:55  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:18:55  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:18:55  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:18:55  [mysql] 	Press the Logs button to view error logs and check
+05:18:55  [mysql] 	the Windows Event Viewer for more clues
+05:18:55  [mysql] 	If you need more help, copy and post this
+05:18:55  [mysql] 	entire log window on the forums
+05:20:24  [mysql] 	Attempting to start MySQL app...
+05:20:24  [mysql] 	Status change detected: running
+05:20:27  [mysql] 	Status change detected: stopped
+05:20:27  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:20:27  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:20:27  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:20:27  [mysql] 	Press the Logs button to view error logs and check
+05:20:27  [mysql] 	the Windows Event Viewer for more clues
+05:20:27  [mysql] 	If you need more help, copy and post this
+05:20:27  [mysql] 	entire log window on the forums
+05:24:10  [mysql] 	Attempting to start MySQL app...
+05:24:11  [mysql] 	Status change detected: running
+05:24:15  [mysql] 	Status change detected: stopped
+05:24:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:24:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:24:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:24:15  [mysql] 	Press the Logs button to view error logs and check
+05:24:15  [mysql] 	the Windows Event Viewer for more clues
+05:24:15  [mysql] 	If you need more help, copy and post this
+05:24:15  [mysql] 	entire log window on the forums
+05:24:31  [mysql] 	Attempting to start MySQL app...
+05:24:32  [mysql] 	Status change detected: running
+05:24:35  [Apache] 	Attempting to stop Apache (PID: 12724)
+05:24:35  [Apache] 	Attempting to stop Apache (PID: 14876)
+05:24:35  [Apache] 	Status change detected: stopped
+05:24:36  [mysql] 	Status change detected: stopped
+05:24:36  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:24:36  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:24:36  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:24:36  [mysql] 	Press the Logs button to view error logs and check
+05:24:36  [mysql] 	the Windows Event Viewer for more clues
+05:24:36  [mysql] 	If you need more help, copy and post this
+05:24:36  [mysql] 	entire log window on the forums
+05:24:37  [Apache] 	Attempting to start Apache app...
+05:24:38  [Apache] 	Status change detected: running
+05:24:38  [mysql] 	Attempting to start MySQL app...
+05:24:38  [mysql] 	Status change detected: running
+05:24:43  [mysql] 	Status change detected: stopped
+05:24:43  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:24:43  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:24:43  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:24:43  [mysql] 	Press the Logs button to view error logs and check
+05:24:43  [mysql] 	the Windows Event Viewer for more clues
+05:24:43  [mysql] 	If you need more help, copy and post this
+05:24:43  [mysql] 	entire log window on the forums
+05:26:22  [mysql] 	Attempting to start MySQL app...
+05:26:23  [mysql] 	Status change detected: running
+05:26:27  [mysql] 	Status change detected: stopped
+05:26:27  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:26:27  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:26:27  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:26:27  [mysql] 	Press the Logs button to view error logs and check
+05:26:27  [mysql] 	the Windows Event Viewer for more clues
+05:26:27  [mysql] 	If you need more help, copy and post this
+05:26:27  [mysql] 	entire log window on the forums
+05:27:33  [Apache] 	Attempting to stop Apache (PID: 16080)
+05:27:33  [Apache] 	Attempting to stop Apache (PID: 16336)
+05:27:34  [Apache] 	Status change detected: stopped
+05:27:35  [Apache] 	Attempting to start Apache app...
+05:27:35  [Apache] 	Status change detected: running
+05:27:35  [mysql] 	Attempting to start MySQL app...
+05:27:36  [mysql] 	Status change detected: running
+05:27:40  [mysql] 	Status change detected: stopped
+05:27:40  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:27:40  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:27:40  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:27:40  [mysql] 	Press the Logs button to view error logs and check
+05:27:40  [mysql] 	the Windows Event Viewer for more clues
+05:27:40  [mysql] 	If you need more help, copy and post this
+05:27:40  [mysql] 	entire log window on the forums
+05:29:13  [mysql] 	Attempting to start MySQL app...
+05:29:14  [mysql] 	Status change detected: running
+05:29:18  [mysql] 	Status change detected: stopped
+05:29:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:29:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:29:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:29:18  [mysql] 	Press the Logs button to view error logs and check
+05:29:18  [mysql] 	the Windows Event Viewer for more clues
+05:29:18  [mysql] 	If you need more help, copy and post this
+05:29:18  [mysql] 	entire log window on the forums
+05:31:16  [main] 	Deinitializing Modules
+05:31:16  [main] 	Deinitializing Control Panel
+
+05:31:23  [main] 	Initializing Control Panel
+05:31:23  [main] 	Windows Version:  Home  64-bit
+05:31:23  [main] 	XAMPP Version: 7.4.4
+05:31:23  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+05:31:23  [main] 	Running with Administrator rights - good!
+05:31:23  [main] 	XAMPP Installation Directory: "e:\xampp\"
+05:31:23  [main] 	Checking for prerequisites
+05:31:23  [main] 	All prerequisites found
+05:31:23  [main] 	Initializing Modules
+05:31:23  [Apache] 	XAMPP Apache is already running on port 8000
+05:31:23  [Apache] 	XAMPP Apache is already running on port 4443
+05:31:23  [main] 	Starting Check-Timer
+05:31:23  [main] 	Control Panel Ready
+05:31:28  [Apache] 	Attempting to stop Apache (PID: 13308)
+05:31:28  [Apache] 	Attempting to stop Apache (PID: 3208)
+05:31:29  [Apache] 	Status change detected: stopped
+05:31:31  [mysql] 	Attempting to start MySQL app...
+05:31:31  [mysql] 	Status change detected: running
+05:31:32  [Apache] 	Attempting to start Apache app...
+05:31:33  [Apache] 	Status change detected: running
+05:31:35  [mysql] 	Status change detected: stopped
+05:31:35  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:31:35  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:31:35  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:31:35  [mysql] 	Press the Logs button to view error logs and check
+05:31:35  [mysql] 	the Windows Event Viewer for more clues
+05:31:35  [mysql] 	If you need more help, copy and post this
+05:31:35  [mysql] 	entire log window on the forums
+05:31:38  [Apache] 	Attempting to stop Apache (PID: 6932)
+05:31:38  [Apache] 	Attempting to stop Apache (PID: 17344)
+05:31:39  [Apache] 	Status change detected: stopped
+05:33:42  [Apache] 	Attempting to start Apache app...
+05:33:43  [Apache] 	Status change detected: running
+05:37:11  [main] 	Deinitializing Modules
+05:37:11  [main] 	Deinitializing Control Panel
+
+05:51:05  [main] 	Initializing Control Panel
+05:51:05  [main] 	Windows Version:  Home  64-bit
+05:51:05  [main] 	XAMPP Version: 7.4.4
+05:51:05  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+05:51:05  [main] 	Running with Administrator rights - good!
+05:51:05  [main] 	XAMPP Installation Directory: "e:\xampp\"
+05:51:05  [main] 	Checking for prerequisites
+05:51:06  [main] 	All prerequisites found
+05:51:06  [main] 	Initializing Modules
+05:51:06  [main] 	Starting Check-Timer
+05:51:06  [main] 	Control Panel Ready
+05:51:10  [Apache] 	Attempting to start Apache app...
+05:51:10  [Apache] 	Status change detected: running
+05:51:10  [mysql] 	Attempting to start MySQL app...
+05:51:11  [mysql] 	Status change detected: running
+05:51:18  [mysql] 	Status change detected: stopped
+05:51:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:51:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:51:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:51:18  [mysql] 	Press the Logs button to view error logs and check
+05:51:18  [mysql] 	the Windows Event Viewer for more clues
+05:51:18  [mysql] 	If you need more help, copy and post this
+05:51:18  [mysql] 	entire log window on the forums
+05:51:22  [Apache] 	Attempting to stop Apache (PID: 12088)
+05:51:22  [Apache] 	Attempting to stop Apache (PID: 12164)
+05:51:22  [Apache] 	Status change detected: stopped
+05:51:25  [Apache] 	Attempting to start Apache app...
+05:51:25  [Apache] 	Status change detected: running
+05:51:26  [mysql] 	Attempting to start MySQL app...
+05:51:26  [mysql] 	Status change detected: running
+05:51:30  [mysql] 	Status change detected: stopped
+05:51:30  [mysql] 	Error: MySQL shutdown unexpectedly.
+05:51:30  [mysql] 	This may be due to a blocked port, missing dependencies, 
+05:51:30  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+05:51:30  [mysql] 	Press the Logs button to view error logs and check
+05:51:30  [mysql] 	the Windows Event Viewer for more clues
+05:51:30  [mysql] 	If you need more help, copy and post this
+05:51:30  [mysql] 	entire log window on the forums
+05:51:34  [Apache] 	Attempting to stop Apache (PID: 11860)
+05:51:34  [Apache] 	Attempting to stop Apache (PID: 8016)
+05:51:34  [Apache] 	Status change detected: stopped
+12:02:19  [main] 	Deinitializing Modules
+12:02:19  [main] 	Deinitializing Control Panel
+
+14:56:14  [main] 	Initializing Control Panel
+14:56:14  [main] 	Windows Version:  Home  64-bit
+14:56:14  [main] 	XAMPP Version: 7.4.4
+14:56:14  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:56:14  [main] 	Running with Administrator rights - good!
+14:56:14  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:56:14  [main] 	Checking for prerequisites
+14:56:14  [main] 	All prerequisites found
+14:56:14  [main] 	Initializing Modules
+14:56:14  [Apache] 	XAMPP Apache is already running on port 8000
+14:56:14  [Apache] 	XAMPP Apache is already running on port 4443
+14:56:14  [main] 	Starting Check-Timer
+14:56:14  [main] 	Control Panel Ready
+14:56:18  [mysql] 	Attempting to start MySQL app...
+14:56:18  [mysql] 	Status change detected: running
+14:56:24  [mysql] 	Status change detected: stopped
+14:56:24  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:56:24  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:56:24  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:56:24  [mysql] 	Press the Logs button to view error logs and check
+14:56:24  [mysql] 	the Windows Event Viewer for more clues
+14:56:24  [mysql] 	If you need more help, copy and post this
+14:56:24  [mysql] 	entire log window on the forums
+14:56:42  [mysql] 	Attempting to start MySQL app...
+14:56:42  [mysql] 	Status change detected: running
+14:56:48  [mysql] 	Status change detected: stopped
+14:56:48  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:56:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:56:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:56:48  [mysql] 	Press the Logs button to view error logs and check
+14:56:48  [mysql] 	the Windows Event Viewer for more clues
+14:56:48  [mysql] 	If you need more help, copy and post this
+14:56:48  [mysql] 	entire log window on the forums
+14:57:14  [mysql] 	Attempting to start MySQL app...
+14:57:14  [mysql] 	Status change detected: running
+14:57:18  [mysql] 	Status change detected: stopped
+14:57:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:57:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:57:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:57:18  [mysql] 	Press the Logs button to view error logs and check
+14:57:18  [mysql] 	the Windows Event Viewer for more clues
+14:57:18  [mysql] 	If you need more help, copy and post this
+14:57:18  [mysql] 	entire log window on the forums
+14:58:11  [Apache] 	Attempting to stop Apache (PID: 6932)
+14:58:11  [Apache] 	Attempting to stop Apache (PID: 8748)
+14:58:12  [Apache] 	Status change detected: stopped
+14:58:31  [Apache] 	Attempting to start Apache app...
+14:58:32  [Apache] 	Status change detected: running
+14:58:32  [mysql] 	Attempting to start MySQL app...
+14:58:32  [mysql] 	Status change detected: running
+14:58:37  [mysql] 	Status change detected: stopped
+14:58:37  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:58:37  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:58:37  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:58:37  [mysql] 	Press the Logs button to view error logs and check
+14:58:37  [mysql] 	the Windows Event Viewer for more clues
+14:58:37  [mysql] 	If you need more help, copy and post this
+14:58:37  [mysql] 	entire log window on the forums
+14:58:41  [Apache] 	Attempting to stop Apache (PID: 13176)
+14:58:41  [Apache] 	Attempting to stop Apache (PID: 15740)
+14:58:41  [Apache] 	Status change detected: stopped
+14:58:52  [Apache] 	Attempting to start Apache app...
+14:58:52  [Apache] 	Status change detected: running
+14:58:54  [mysql] 	Attempting to start MySQL app...
+14:58:54  [mysql] 	Status change detected: running
+14:58:59  [mysql] 	Status change detected: stopped
+14:58:59  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:58:59  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:58:59  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:58:59  [mysql] 	Press the Logs button to view error logs and check
+14:58:59  [mysql] 	the Windows Event Viewer for more clues
+14:58:59  [mysql] 	If you need more help, copy and post this
+14:58:59  [mysql] 	entire log window on the forums
+15:05:03  [Apache] 	Attempting to stop Apache (PID: 6220)
+15:05:03  [Apache] 	Attempting to stop Apache (PID: 1132)
+15:05:03  [Apache] 	Status change detected: stopped
+15:05:09  [Apache] 	Attempting to start Apache app...
+15:05:09  [Apache] 	Status change detected: running
+15:05:10  [mysql] 	Attempting to start MySQL app...
+15:05:10  [mysql] 	Status change detected: running
+15:05:13  [mysql] 	Status change detected: stopped
+15:05:13  [mysql] 	Error: MySQL shutdown unexpectedly.
+15:05:13  [mysql] 	This may be due to a blocked port, missing dependencies, 
+15:05:13  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+15:05:13  [mysql] 	Press the Logs button to view error logs and check
+15:05:13  [mysql] 	the Windows Event Viewer for more clues
+15:05:13  [mysql] 	If you need more help, copy and post this
+15:05:13  [mysql] 	entire log window on the forums
+15:10:07  [Apache] 	Attempting to stop Apache (PID: 6068)
+15:10:07  [Apache] 	Attempting to stop Apache (PID: 4368)
+15:10:07  [Apache] 	Status change detected: stopped
+15:10:08  [Apache] 	Attempting to start Apache app...
+15:10:08  [Apache] 	Status change detected: running
+15:10:09  [mysql] 	Attempting to start MySQL app...
+15:10:09  [mysql] 	Status change detected: running
+15:10:12  [mysql] 	Status change detected: stopped
+15:10:12  [mysql] 	Error: MySQL shutdown unexpectedly.
+15:10:12  [mysql] 	This may be due to a blocked port, missing dependencies, 
+15:10:12  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+15:10:12  [mysql] 	Press the Logs button to view error logs and check
+15:10:12  [mysql] 	the Windows Event Viewer for more clues
+15:10:12  [mysql] 	If you need more help, copy and post this
+15:10:12  [mysql] 	entire log window on the forums
+15:13:45  [Apache] 	Attempting to stop Apache (PID: 8572)
+15:13:45  [Apache] 	Attempting to stop Apache (PID: 11232)
+15:13:45  [Apache] 	Status change detected: stopped
+15:13:47  [Apache] 	Attempting to start Apache app...
+15:13:47  [Apache] 	Status change detected: running
+15:13:49  [mysql] 	Attempting to start MySQL app...
+15:13:49  [mysql] 	Status change detected: running
+15:13:53  [mysql] 	Status change detected: stopped
+15:13:53  [mysql] 	Error: MySQL shutdown unexpectedly.
+15:13:53  [mysql] 	This may be due to a blocked port, missing dependencies, 
+15:13:53  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+15:13:53  [mysql] 	Press the Logs button to view error logs and check
+15:13:53  [mysql] 	the Windows Event Viewer for more clues
+15:13:53  [mysql] 	If you need more help, copy and post this
+15:13:53  [mysql] 	entire log window on the forums
+15:35:07  [Apache] 	Attempting to stop Apache (PID: 5924)
+15:35:07  [Apache] 	Attempting to stop Apache (PID: 13652)
+15:35:08  [Apache] 	Status change detected: stopped
+15:35:34  [Apache] 	Attempting to start Apache app...
+15:35:34  [Apache] 	Status change detected: running
+15:35:37  [mysql] 	Attempting to start MySQL app...
+15:35:37  [mysql] 	Status change detected: running
+15:35:41  [mysql] 	Status change detected: stopped
+15:35:41  [mysql] 	Error: MySQL shutdown unexpectedly.
+15:35:41  [mysql] 	This may be due to a blocked port, missing dependencies, 
+15:35:41  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+15:35:41  [mysql] 	Press the Logs button to view error logs and check
+15:35:41  [mysql] 	the Windows Event Viewer for more clues
+15:35:41  [mysql] 	If you need more help, copy and post this
+15:35:41  [mysql] 	entire log window on the forums
+15:43:00  [Apache] 	Attempting to stop Apache (PID: 17976)
+15:43:00  [Apache] 	Attempting to stop Apache (PID: 10900)
+15:43:00  [Apache] 	Status change detected: stopped
+15:43:12  [main] 	Deinitializing Modules
+15:43:12  [main] 	Deinitializing Control Panel
+
+15:44:07  [main] 	Initializing Control Panel
+15:44:07  [main] 	Windows Version:  Home  64-bit
+15:44:07  [main] 	XAMPP Version: 7.4.4
+15:44:07  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:44:07  [main] 	Running with Administrator rights - good!
+15:44:07  [main] 	XAMPP Installation Directory: "e:\xampp\"
+15:44:07  [main] 	Checking for prerequisites
+15:44:07  [main] 	All prerequisites found
+15:44:07  [main] 	Initializing Modules
+15:44:07  [main] 	Starting Check-Timer
+15:44:07  [main] 	Control Panel Ready
+15:44:11  [Apache] 	Attempting to start Apache app...
+15:44:11  [Apache] 	Status change detected: running
+15:44:11  [mysql] 	Attempting to start MySQL app...
+15:44:12  [mysql] 	Status change detected: running
+15:48:55  [mysql] 	Attempting to stop MySQL app...
+15:48:55  [mysql] 	Status change detected: stopped
+15:48:56  [Apache] 	Attempting to stop Apache (PID: 7500)
+15:48:56  [Apache] 	Attempting to stop Apache (PID: 3604)
+15:48:56  [Apache] 	Status change detected: stopped
+15:49:19  [Apache] 	Attempting to start Apache app...
+15:49:19  [Apache] 	Status change detected: running
+15:49:20  [mysql] 	Attempting to start MySQL app...
+15:49:20  [mysql] 	Status change detected: running
+15:52:35  [Apache] 	Attempting to stop Apache (PID: 13148)
+15:52:35  [Apache] 	Attempting to stop Apache (PID: 12488)
+15:52:35  [Apache] 	Status change detected: stopped
+15:52:36  [mysql] 	Attempting to stop MySQL app...
+15:52:36  [mysql] 	Status change detected: stopped
+15:52:37  [Apache] 	Attempting to start Apache app...
+15:52:38  [Apache] 	Status change detected: running
+15:52:38  [mysql] 	Attempting to start MySQL app...
+15:52:38  [mysql] 	Status change detected: running
+15:53:44  [Apache] 	Attempting to stop Apache (PID: 18288)
+15:53:44  [Apache] 	Attempting to stop Apache (PID: 16124)
+15:53:45  [mysql] 	Attempting to stop MySQL app...
+15:53:45  [Apache] 	Status change detected: stopped
+15:53:45  [mysql] 	Status change detected: stopped
+15:53:54  [Apache] 	Attempting to start Apache app...
+15:53:54  [Apache] 	Status change detected: running
+15:53:54  [mysql] 	Attempting to start MySQL app...
+15:53:54  [mysql] 	Status change detected: running
+15:58:11  [Apache] 	Attempting to stop Apache (PID: 11824)
+15:58:11  [Apache] 	Attempting to stop Apache (PID: 15824)
+15:58:11  [Apache] 	Status change detected: stopped
+15:58:11  [mysql] 	Attempting to stop MySQL app...
+15:58:12  [mysql] 	Status change detected: stopped
+15:58:16  [main] 	Deinitializing Modules
+15:58:16  [main] 	Deinitializing Control Panel
+
+15:58:21  [main] 	Initializing Control Panel
+15:58:21  [main] 	Windows Version:  Home  64-bit
+15:58:21  [main] 	XAMPP Version: 7.4.4
+15:58:21  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:58:21  [main] 	Running with Administrator rights - good!
+15:58:21  [main] 	XAMPP Installation Directory: "e:\xampp\"
+15:58:21  [main] 	Checking for prerequisites
+15:58:21  [main] 	All prerequisites found
+15:58:21  [main] 	Initializing Modules
+15:58:21  [main] 	Starting Check-Timer
+15:58:21  [main] 	Control Panel Ready
+15:58:26  [Apache] 	Attempting to start Apache app...
+15:58:27  [Apache] 	Status change detected: running
+15:58:27  [mysql] 	Attempting to start MySQL app...
+15:58:27  [mysql] 	Status change detected: running
+16:01:09  [Apache] 	Attempting to stop Apache (PID: 6748)
+16:01:09  [Apache] 	Attempting to stop Apache (PID: 11240)
+16:01:09  [Apache] 	Status change detected: stopped
+16:01:10  [mysql] 	Attempting to stop MySQL app...
+16:01:10  [mysql] 	Status change detected: stopped
+16:01:20  [Apache] 	Attempting to start Apache app...
+16:01:20  [Apache] 	Status change detected: running
+16:01:20  [mysql] 	Attempting to start MySQL app...
+16:01:21  [mysql] 	Status change detected: running
+16:06:10  [Apache] 	Attempting to stop Apache (PID: 16440)
+16:06:10  [Apache] 	Attempting to stop Apache (PID: 16692)
+16:06:10  [Apache] 	Status change detected: stopped
+16:06:10  [mysql] 	Attempting to stop MySQL app...
+16:06:10  [mysql] 	Status change detected: stopped
+16:06:33  [Apache] 	Attempting to start Apache app...
+16:06:34  [Apache] 	Status change detected: running
+16:06:34  [mysql] 	Attempting to start MySQL app...
+16:06:34  [mysql] 	Status change detected: running
+16:07:00  [Apache] 	Attempting to stop Apache (PID: 12256)
+16:07:00  [Apache] 	Attempting to stop Apache (PID: 7020)
+16:07:00  [Apache] 	Status change detected: stopped
+16:07:00  [mysql] 	Attempting to stop MySQL app...
+16:07:00  [mysql] 	Status change detected: stopped
+16:08:39  [Apache] 	Attempting to start Apache app...
+16:08:39  [Apache] 	Status change detected: running
+16:08:40  [mysql] 	Attempting to start MySQL app...
+16:08:40  [mysql] 	Status change detected: running
+16:12:08  [Apache] 	Attempting to stop Apache (PID: 8152)
+16:12:08  [Apache] 	Attempting to stop Apache (PID: 11712)
+16:12:08  [Apache] 	Status change detected: stopped
+16:12:08  [mysql] 	Attempting to stop MySQL app...
+16:12:09  [mysql] 	Status change detected: stopped
+16:12:14  [main] 	Deinitializing Modules
+16:12:14  [main] 	Deinitializing Control Panel
+
+16:13:08  [main] 	Initializing Control Panel
+16:13:08  [main] 	Windows Version:  Home  64-bit
+16:13:08  [main] 	XAMPP Version: 7.4.4
+16:13:08  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+16:13:08  [main] 	Running with Administrator rights - good!
+16:13:08  [main] 	XAMPP Installation Directory: "e:\xampp\"
+16:13:08  [main] 	Checking for prerequisites
+16:13:08  [main] 	All prerequisites found
+16:13:08  [main] 	Initializing Modules
+16:13:08  [main] 	Starting Check-Timer
+16:13:08  [main] 	Control Panel Ready
+16:13:09  [Apache] 	Attempting to start Apache app...
+16:13:09  [Apache] 	Status change detected: running
+16:13:09  [mysql] 	Attempting to start MySQL app...
+16:13:10  [mysql] 	Status change detected: running
+16:52:05  [Apache] 	Attempting to stop Apache (PID: 17768)
+16:52:05  [Apache] 	Attempting to stop Apache (PID: 544)
+16:52:05  [Apache] 	Status change detected: stopped
+16:52:06  [mysql] 	Attempting to stop MySQL app...
+16:52:06  [mysql] 	Status change detected: stopped
+21:16:55  [Apache] 	Attempting to start Apache app...
+21:16:55  [Apache] 	Status change detected: running
+21:16:56  [mysql] 	Attempting to start MySQL app...
+21:16:56  [mysql] 	Status change detected: running
+21:35:55  [Apache] 	Attempting to stop Apache (PID: 7928)
+21:35:55  [Apache] 	Attempting to stop Apache (PID: 4600)
+21:35:55  [Apache] 	Status change detected: stopped
+21:35:55  [mysql] 	Attempting to stop MySQL app...
+21:35:56  [mysql] 	Status change detected: stopped
+21:36:06  [main] 	Deinitializing Modules
+21:36:06  [main] 	Deinitializing Control Panel
+
+01:41:44  [main] 	Initializing Control Panel
+01:41:44  [main] 	Windows Version:  Home  64-bit
+01:41:44  [main] 	XAMPP Version: 7.4.4
+01:41:44  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+01:41:44  [main] 	Running with Administrator rights - good!
+01:41:44  [main] 	XAMPP Installation Directory: "e:\xampp\"
+01:41:44  [main] 	Checking for prerequisites
+01:41:44  [main] 	All prerequisites found
+01:41:44  [main] 	Initializing Modules
+01:41:44  [main] 	Starting Check-Timer
+01:41:44  [main] 	Control Panel Ready
+01:41:46  [Apache] 	Attempting to start Apache app...
+01:41:46  [Apache] 	Status change detected: running
+01:41:46  [mysql] 	Attempting to start MySQL app...
+01:41:47  [mysql] 	Status change detected: running
+01:42:14  [Apache] 	Attempting to stop Apache (PID: 15580)
+01:42:14  [Apache] 	Attempting to stop Apache (PID: 16792)
+01:42:14  [Apache] 	Status change detected: stopped
+01:42:15  [mysql] 	Attempting to stop MySQL app...
+01:42:15  [mysql] 	Status change detected: stopped
+01:46:26  [Apache] 	Attempting to start Apache app...
+01:46:26  [Apache] 	Status change detected: running
+01:46:27  [mysql] 	Attempting to start MySQL app...
+01:46:27  [mysql] 	Status change detected: running
+02:28:16  [Apache] 	Attempting to stop Apache (PID: 10744)
+02:28:16  [Apache] 	Attempting to stop Apache (PID: 12644)
+02:28:16  [Apache] 	Status change detected: stopped
+02:28:16  [mysql] 	Attempting to stop MySQL app...
+02:28:17  [mysql] 	Status change detected: stopped
+02:30:03  [Apache] 	Attempting to start Apache app...
+02:30:03  [Apache] 	Status change detected: running
+02:30:04  [mysql] 	Attempting to start MySQL app...
+02:30:04  [mysql] 	Status change detected: running
+02:38:37  [Apache] 	Attempting to stop Apache (PID: 18084)
+02:38:37  [Apache] 	Attempting to stop Apache (PID: 7208)
+02:38:37  [Apache] 	Status change detected: stopped
+02:38:37  [mysql] 	Attempting to stop MySQL app...
+02:38:37  [mysql] 	Status change detected: stopped
+02:38:57  [Apache] 	Attempting to start Apache app...
+02:38:57  [Apache] 	Status change detected: running
+02:38:57  [mysql] 	Attempting to start MySQL app...
+02:38:58  [mysql] 	Status change detected: running
+03:37:11  [Apache] 	Attempting to stop Apache (PID: 14444)
+03:37:11  [Apache] 	Attempting to stop Apache (PID: 15920)
+03:37:11  [mysql] 	Attempting to stop MySQL app...
+03:37:11  [Apache] 	Status change detected: stopped
+03:37:11  [mysql] 	Status change detected: stopped
+03:38:13  [Apache] 	Attempting to start Apache app...
+03:38:13  [Apache] 	Status change detected: running
+03:38:13  [mysql] 	Attempting to start MySQL app...
+03:38:14  [mysql] 	Status change detected: running
+03:39:29  [Apache] 	Attempting to stop Apache (PID: 4600)
+03:39:29  [Apache] 	Attempting to stop Apache (PID: 8288)
+03:39:29  [Apache] 	Status change detected: stopped
+03:39:29  [mysql] 	Attempting to stop MySQL app...
+03:39:30  [mysql] 	Status change detected: stopped
+03:40:56  [Apache] 	Problem detected!
+03:40:56  [Apache] 	Port 8000 in use by "Unable to get info" with PID 4600!
+03:40:56  [Apache] 	Apache WILL NOT start without the configured ports free!
+03:40:56  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+03:40:56  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+03:40:56  [Apache] 	Attempting to start Apache app...
+03:40:57  [mysql] 	Attempting to start MySQL app...
+03:40:57  [Apache] 	Status change detected: running
+03:40:57  [mysql] 	Status change detected: running
+03:43:39  [Apache] 	Attempting to stop Apache (PID: 3856)
+03:43:39  [Apache] 	Attempting to stop Apache (PID: 496)
+03:43:39  [Apache] 	Status change detected: stopped
+03:43:40  [mysql] 	Attempting to stop MySQL app...
+03:43:40  [mysql] 	Status change detected: stopped
+04:22:32  [main] 	Deinitializing Modules
+04:22:32  [main] 	Deinitializing Control Panel
+
+16:54:37  [main] 	Initializing Control Panel
+16:54:37  [main] 	Windows Version:  Home  64-bit
+16:54:37  [main] 	XAMPP Version: 7.4.4
+16:54:37  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+16:54:37  [main] 	Running with Administrator rights - good!
+16:54:37  [main] 	XAMPP Installation Directory: "e:\xampp\"
+16:54:37  [main] 	Checking for prerequisites
+16:54:38  [main] 	All prerequisites found
+16:54:38  [main] 	Initializing Modules
+16:54:38  [main] 	Starting Check-Timer
+16:54:38  [main] 	Control Panel Ready
+16:54:40  [Apache] 	Attempting to start Apache app...
+16:54:40  [Apache] 	Status change detected: running
+16:54:41  [mysql] 	Attempting to start MySQL app...
+16:54:41  [mysql] 	Status change detected: running
+22:30:48  [Apache] 	Attempting to stop Apache (PID: 2044)
+22:30:48  [Apache] 	Attempting to stop Apache (PID: 2420)
+22:30:49  [Apache] 	Status change detected: stopped
+22:30:49  [mysql] 	Attempting to stop MySQL app...
+22:30:49  [mysql] 	Status change detected: stopped
+05:26:00  [main] 	Deinitializing Modules
+05:26:00  [main] 	Deinitializing Control Panel
+
+21:36:24  [main] 	Initializing Control Panel
+21:36:24  [main] 	Windows Version:  Home  64-bit
+21:36:24  [main] 	XAMPP Version: 7.4.4
+21:36:24  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:36:24  [main] 	Running with Administrator rights - good!
+21:36:24  [main] 	XAMPP Installation Directory: "e:\xampp\"
+21:36:24  [main] 	Checking for prerequisites
+21:36:25  [main] 	All prerequisites found
+21:36:25  [main] 	Initializing Modules
+21:36:25  [main] 	Starting Check-Timer
+21:36:25  [main] 	Control Panel Ready
+21:36:29  [Apache] 	Attempting to start Apache app...
+21:36:29  [Apache] 	Status change detected: running
+21:36:29  [mysql] 	Attempting to start MySQL app...
+21:36:29  [mysql] 	Status change detected: running
+21:49:24  [Apache] 	Attempting to stop Apache (PID: 9128)
+21:49:24  [Apache] 	Attempting to stop Apache (PID: 14516)
+21:49:24  [Apache] 	Status change detected: stopped
+21:49:25  [mysql] 	Attempting to stop MySQL app...
+21:49:25  [mysql] 	Status change detected: stopped
+21:59:53  [Apache] 	Attempting to start Apache app...
+21:59:53  [Apache] 	Status change detected: running
+21:59:53  [mysql] 	Attempting to start MySQL app...
+21:59:54  [mysql] 	Status change detected: running
+22:08:34  [Apache] 	Attempting to stop Apache (PID: 1992)
+22:08:34  [Apache] 	Attempting to stop Apache (PID: 10004)
+22:08:34  [Apache] 	Status change detected: stopped
+22:08:35  [mysql] 	Attempting to stop MySQL app...
+22:08:35  [mysql] 	Status change detected: stopped
+03:11:14  [main] 	Deinitializing Modules
+03:11:14  [main] 	Deinitializing Control Panel
+
+14:56:29  [main] 	Initializing Control Panel
+14:56:29  [main] 	Windows Version:  Home  64-bit
+14:56:29  [main] 	XAMPP Version: 7.4.4
+14:56:29  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:56:29  [main] 	Running with Administrator rights - good!
+14:56:29  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:56:29  [main] 	Checking for prerequisites
+14:56:30  [main] 	All prerequisites found
+14:56:30  [main] 	Initializing Modules
+14:56:30  [main] 	Starting Check-Timer
+14:56:30  [main] 	Control Panel Ready
+14:56:32  [Apache] 	Attempting to start Apache app...
+14:56:32  [Apache] 	Status change detected: running
+14:56:33  [mysql] 	Attempting to start MySQL app...
+14:56:33  [mysql] 	Status change detected: running
+14:59:49  [Apache] 	Attempting to stop Apache (PID: 12452)
+14:59:49  [Apache] 	Attempting to stop Apache (PID: 11108)
+14:59:49  [Apache] 	Status change detected: stopped
+14:59:50  [mysql] 	Attempting to stop MySQL app...
+14:59:50  [mysql] 	Status change detected: stopped
+16:10:51  [Apache] 	Attempting to start Apache app...
+16:10:52  [mysql] 	Attempting to start MySQL app...
+16:10:52  [Apache] 	Status change detected: running
+16:10:52  [mysql] 	Status change detected: running
+16:18:06  [Apache] 	Attempting to stop Apache (PID: 1260)
+16:18:06  [Apache] 	Attempting to stop Apache (PID: 14020)
+16:18:06  [Apache] 	Status change detected: stopped
+16:18:06  [mysql] 	Attempting to stop MySQL app...
+16:18:07  [mysql] 	Status change detected: stopped
+00:03:26  [main] 	Deinitializing Modules
+00:03:26  [main] 	Deinitializing Control Panel
+
+12:09:50  [main] 	Initializing Control Panel
+12:09:50  [main] 	Windows Version:  Home  64-bit
+12:09:50  [main] 	XAMPP Version: 7.4.4
+12:09:50  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:09:50  [main] 	Running with Administrator rights - good!
+12:09:50  [main] 	XAMPP Installation Directory: "e:\xampp\"
+12:09:50  [main] 	Checking for prerequisites
+12:09:51  [main] 	All prerequisites found
+12:09:51  [main] 	Initializing Modules
+12:09:51  [main] 	Starting Check-Timer
+12:09:51  [main] 	Control Panel Ready
+12:09:53  [Apache] 	Attempting to start Apache app...
+12:09:53  [Apache] 	Status change detected: running
+12:09:53  [mysql] 	Attempting to start MySQL app...
+12:09:53  [mysql] 	Status change detected: running
+20:15:09  [Apache] 	Attempting to stop Apache (PID: 3636)
+20:15:09  [Apache] 	Attempting to stop Apache (PID: 5956)
+20:15:09  [Apache] 	Status change detected: stopped
+20:15:10  [mysql] 	Attempting to stop MySQL app...
+20:15:10  [mysql] 	Status change detected: stopped
+04:59:18  [main] 	Deinitializing Modules
+04:59:18  [main] 	Deinitializing Control Panel
+
+18:28:34  [main] 	Initializing Control Panel
+18:28:34  [main] 	Windows Version:  Home  64-bit
+18:28:34  [main] 	XAMPP Version: 7.4.4
+18:28:34  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:28:34  [main] 	Running with Administrator rights - good!
+18:28:34  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:28:34  [main] 	Checking for prerequisites
+18:28:35  [main] 	All prerequisites found
+18:28:35  [main] 	Initializing Modules
+18:28:35  [main] 	Starting Check-Timer
+18:28:35  [main] 	Control Panel Ready
+18:28:57  [Apache] 	Attempting to start Apache app...
+18:28:57  [Apache] 	Status change detected: running
+18:28:58  [mysql] 	Attempting to start MySQL app...
+18:28:58  [mysql] 	Status change detected: running
+20:01:22  [Apache] 	Attempting to stop Apache (PID: 8712)
+20:01:22  [Apache] 	Attempting to stop Apache (PID: 8868)
+20:01:23  [mysql] 	Attempting to stop MySQL app...
+20:01:23  [Apache] 	Status change detected: stopped
+20:01:23  [mysql] 	Status change detected: stopped
+06:42:11  [Apache] 	Attempting to start Apache app...
+06:42:11  [Apache] 	Status change detected: running
+06:42:11  [mysql] 	Attempting to start MySQL app...
+06:42:11  [mysql] 	Status change detected: running
+06:47:16  [Apache] 	Attempting to stop Apache (PID: 10832)
+06:47:16  [Apache] 	Attempting to stop Apache (PID: 9352)
+06:47:17  [Apache] 	Status change detected: stopped
+06:47:17  [mysql] 	Attempting to stop MySQL app...
+06:47:17  [mysql] 	Status change detected: stopped
+04:40:25  [main] 	Deinitializing Modules
+04:40:25  [main] 	Deinitializing Control Panel
+
+14:17:20  [main] 	Initializing Control Panel
+14:17:20  [main] 	Windows Version:  Home  64-bit
+14:17:20  [main] 	XAMPP Version: 7.4.4
+14:17:20  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:17:20  [main] 	Running with Administrator rights - good!
+14:17:20  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:17:20  [main] 	Checking for prerequisites
+14:17:21  [main] 	All prerequisites found
+14:17:21  [main] 	Initializing Modules
+14:17:21  [main] 	Starting Check-Timer
+14:17:21  [main] 	Control Panel Ready
+14:17:25  [Apache] 	Attempting to start Apache app...
+14:17:25  [Apache] 	Status change detected: running
+14:17:25  [mysql] 	Attempting to start MySQL app...
+14:17:26  [mysql] 	Status change detected: running
+14:23:35  [Apache] 	Attempting to stop Apache (PID: 13916)
+14:23:35  [Apache] 	Attempting to stop Apache (PID: 8796)
+14:23:35  [Apache] 	Status change detected: stopped
+14:23:35  [mysql] 	Attempting to stop MySQL app...
+14:23:36  [mysql] 	Status change detected: stopped
+14:23:39  [main] 	Deinitializing Modules
+14:23:40  [main] 	Deinitializing Control Panel
+
+21:02:58  [main] 	Initializing Control Panel
+21:02:58  [main] 	Windows Version:  Home  64-bit
+21:02:58  [main] 	XAMPP Version: 7.4.4
+21:02:58  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:02:58  [main] 	Running with Administrator rights - good!
+21:02:58  [main] 	XAMPP Installation Directory: "e:\xampp\"
+21:02:58  [main] 	Checking for prerequisites
+21:02:59  [main] 	All prerequisites found
+21:02:59  [main] 	Initializing Modules
+21:02:59  [main] 	Starting Check-Timer
+21:02:59  [main] 	Control Panel Ready
+21:03:00  [Apache] 	Attempting to start Apache app...
+21:03:01  [Apache] 	Status change detected: running
+21:03:02  [mysql] 	Attempting to start MySQL app...
+21:03:03  [mysql] 	Status change detected: running
+23:43:21  [Apache] 	Attempting to stop Apache (PID: 11708)
+23:43:21  [Apache] 	Attempting to stop Apache (PID: 4176)
+23:43:21  [Apache] 	Status change detected: stopped
+23:43:22  [mysql] 	Attempting to stop MySQL app...
+23:43:22  [mysql] 	Status change detected: stopped
+04:39:12  [main] 	Deinitializing Modules
+04:39:12  [main] 	Deinitializing Control Panel
+
+13:39:49  [main] 	Initializing Control Panel
+13:39:49  [main] 	Windows Version:  Home  64-bit
+13:39:49  [main] 	XAMPP Version: 7.4.4
+13:39:49  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:39:49  [main] 	Running with Administrator rights - good!
+13:39:49  [main] 	XAMPP Installation Directory: "e:\xampp\"
+13:39:49  [main] 	Checking for prerequisites
+13:39:50  [main] 	All prerequisites found
+13:39:50  [main] 	Initializing Modules
+13:39:50  [main] 	Starting Check-Timer
+13:39:50  [main] 	Control Panel Ready
+13:39:51  [Apache] 	Attempting to start Apache app...
+13:39:51  [Apache] 	Status change detected: running
+13:39:52  [mysql] 	Attempting to start MySQL app...
+13:39:52  [mysql] 	Status change detected: running
+13:44:07  [Apache] 	Attempting to stop Apache (PID: 16280)
+13:44:07  [Apache] 	Attempting to stop Apache (PID: 7536)
+13:44:07  [Apache] 	Status change detected: stopped
+13:44:07  [mysql] 	Attempting to stop MySQL app...
+13:44:08  [mysql] 	Status change detected: stopped
+13:44:25  [Apache] 	Attempting to start Apache app...
+13:44:26  [Apache] 	Status change detected: running
+13:44:26  [mysql] 	Attempting to start MySQL app...
+13:44:27  [mysql] 	Status change detected: running
+14:01:33  [Apache] 	Attempting to stop Apache (PID: 15348)
+14:01:33  [Apache] 	Attempting to stop Apache (PID: 4356)
+14:01:33  [Apache] 	Status change detected: stopped
+14:01:33  [mysql] 	Attempting to stop MySQL app...
+14:01:34  [mysql] 	Status change detected: stopped
+02:57:10  [main] 	Deinitializing Modules
+02:57:10  [main] 	Deinitializing Control Panel
+
+16:31:12  [main] 	Initializing Control Panel
+16:31:12  [main] 	Windows Version:  Home  64-bit
+16:31:12  [main] 	XAMPP Version: 7.4.4
+16:31:12  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+16:31:12  [main] 	Running with Administrator rights - good!
+16:31:12  [main] 	XAMPP Installation Directory: "e:\xampp\"
+16:31:12  [main] 	Checking for prerequisites
+16:31:13  [main] 	All prerequisites found
+16:31:13  [main] 	Initializing Modules
+16:31:13  [main] 	Starting Check-Timer
+16:31:13  [main] 	Control Panel Ready
+16:31:14  [Apache] 	Attempting to start Apache app...
+16:31:14  [Apache] 	Status change detected: running
+16:31:15  [mysql] 	Attempting to start MySQL app...
+16:31:15  [mysql] 	Status change detected: running
+18:24:10  [Apache] 	Attempting to stop Apache (PID: 12104)
+18:24:10  [Apache] 	Attempting to stop Apache (PID: 12564)
+18:24:10  [Apache] 	Status change detected: stopped
+18:24:10  [mysql] 	Attempting to stop MySQL app...
+18:24:10  [mysql] 	Status change detected: stopped
+02:54:25  [main] 	Deinitializing Modules
+02:54:25  [main] 	Deinitializing Control Panel
+
+14:53:13  [main] 	Initializing Control Panel
+14:53:13  [main] 	Windows Version:  Home  64-bit
+14:53:13  [main] 	XAMPP Version: 7.4.4
+14:53:13  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:53:13  [main] 	Running with Administrator rights - good!
+14:53:13  [main] 	XAMPP Installation Directory: "e:\xampp\"
+14:53:13  [main] 	Checking for prerequisites
+14:53:13  [main] 	All prerequisites found
+14:53:13  [main] 	Initializing Modules
+14:53:13  [main] 	Starting Check-Timer
+14:53:13  [main] 	Control Panel Ready
+14:53:16  [Apache] 	Attempting to start Apache app...
+14:53:16  [Apache] 	Status change detected: running
+14:53:17  [mysql] 	Attempting to start MySQL app...
+14:53:17  [mysql] 	Status change detected: running
+15:01:56  [Apache] 	Attempting to stop Apache (PID: 13132)
+15:01:56  [Apache] 	Attempting to stop Apache (PID: 2768)
+15:01:56  [Apache] 	Status change detected: stopped
+15:01:57  [mysql] 	Attempting to stop MySQL app...
+15:01:57  [mysql] 	Status change detected: stopped
+15:13:57  [Apache] 	Attempting to start Apache app...
+15:13:57  [Apache] 	Status change detected: running
+15:13:58  [mysql] 	Attempting to start MySQL app...
+15:13:58  [mysql] 	Status change detected: running
+17:26:04  [Apache] 	Attempting to stop Apache (PID: 17036)
+17:26:04  [Apache] 	Attempting to stop Apache (PID: 17684)
+17:26:04  [Apache] 	Status change detected: stopped
+17:26:05  [mysql] 	Attempting to stop MySQL app...
+17:26:05  [mysql] 	Status change detected: stopped
+20:15:58  [main] 	Deinitializing Modules
+20:15:58  [main] 	Deinitializing Control Panel
+
+19:23:21  [main] 	Initializing Control Panel
+19:23:21  [main] 	Windows Version:  Home  64-bit
+19:23:21  [main] 	XAMPP Version: 7.4.4
+19:23:21  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:23:21  [main] 	Running with Administrator rights - good!
+19:23:21  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:23:21  [main] 	Checking for prerequisites
+19:23:21  [main] 	All prerequisites found
+19:23:21  [main] 	Initializing Modules
+19:23:21  [main] 	Starting Check-Timer
+19:23:21  [main] 	Control Panel Ready
+19:23:23  [Apache] 	Attempting to start Apache app...
+19:23:23  [Apache] 	Status change detected: running
+19:23:23  [mysql] 	Attempting to start MySQL app...
+19:23:24  [mysql] 	Status change detected: running
+19:28:14  [Apache] 	Attempting to stop Apache (PID: 4440)
+19:28:14  [Apache] 	Attempting to stop Apache (PID: 15048)
+19:28:14  [Apache] 	Status change detected: stopped
+19:28:15  [mysql] 	Attempting to stop MySQL app...
+19:28:15  [mysql] 	Status change detected: stopped
+19:47:00  [Apache] 	Attempting to start Apache app...
+19:47:00  [mysql] 	Attempting to start MySQL app...
+19:47:00  [Apache] 	Status change detected: running
+19:47:00  [mysql] 	Status change detected: running
+19:47:57  [Apache] 	Attempting to stop Apache (PID: 14828)
+19:47:57  [Apache] 	Attempting to stop Apache (PID: 7816)
+19:47:57  [Apache] 	Status change detected: stopped
+19:47:57  [mysql] 	Attempting to stop MySQL app...
+19:47:57  [mysql] 	Status change detected: stopped
+03:39:22  [main] 	Deinitializing Modules
+03:39:22  [main] 	Deinitializing Control Panel
+
+20:18:38  [main] 	Initializing Control Panel
+20:18:38  [main] 	Windows Version:  Home  64-bit
+20:18:38  [main] 	XAMPP Version: 7.4.4
+20:18:38  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:18:38  [main] 	Running with Administrator rights - good!
+20:18:38  [main] 	XAMPP Installation Directory: "e:\xampp\"
+20:18:38  [main] 	Checking for prerequisites
+20:18:38  [main] 	All prerequisites found
+20:18:38  [main] 	Initializing Modules
+20:18:38  [main] 	Starting Check-Timer
+20:18:38  [main] 	Control Panel Ready
+20:18:40  [Apache] 	Attempting to start Apache app...
+20:18:40  [Apache] 	Status change detected: running
+20:18:41  [mysql] 	Attempting to start MySQL app...
+20:18:41  [mysql] 	Status change detected: running
+22:58:54  [Apache] 	Attempting to stop Apache (PID: 12440)
+22:58:54  [Apache] 	Attempting to stop Apache (PID: 7480)
+22:58:55  [Apache] 	Status change detected: stopped
+22:58:55  [mysql] 	Attempting to stop MySQL app...
+22:58:55  [mysql] 	Status change detected: stopped
+02:51:03  [main] 	Deinitializing Modules
+02:51:03  [main] 	Deinitializing Control Panel
+
+19:04:24  [main] 	Initializing Control Panel
+19:04:24  [main] 	Windows Version:  Home  64-bit
+19:04:24  [main] 	XAMPP Version: 7.4.4
+19:04:24  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:04:24  [main] 	Running with Administrator rights - good!
+19:04:24  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:04:24  [main] 	Checking for prerequisites
+19:04:25  [main] 	All prerequisites found
+19:04:25  [main] 	Initializing Modules
+19:04:25  [main] 	Starting Check-Timer
+19:04:25  [main] 	Control Panel Ready
+19:04:27  [Apache] 	Attempting to start Apache app...
+19:04:27  [Apache] 	Status change detected: running
+19:04:27  [mysql] 	Attempting to start MySQL app...
+19:04:28  [mysql] 	Status change detected: running
+19:05:12  [Apache] 	Attempting to stop Apache (PID: 20692)
+19:05:12  [Apache] 	Attempting to stop Apache (PID: 18592)
+19:05:12  [Apache] 	Status change detected: stopped
+19:05:13  [mysql] 	Attempting to stop MySQL app...
+19:05:13  [mysql] 	Status change detected: stopped
+03:53:07  [main] 	Deinitializing Modules
+03:53:07  [main] 	Deinitializing Control Panel
+
+01:53:17  [main] 	Initializing Control Panel
+01:53:17  [main] 	Windows Version:  Home  64-bit
+01:53:17  [main] 	XAMPP Version: 7.4.4
+01:53:17  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+01:53:17  [main] 	Running with Administrator rights - good!
+01:53:17  [main] 	XAMPP Installation Directory: "e:\xampp\"
+01:53:17  [main] 	Checking for prerequisites
+01:53:18  [main] 	All prerequisites found
+01:53:18  [main] 	Initializing Modules
+01:53:18  [main] 	Starting Check-Timer
+01:53:18  [main] 	Control Panel Ready
+01:53:19  [Apache] 	Attempting to start Apache app...
+01:53:20  [Apache] 	Status change detected: running
+01:53:20  [mysql] 	Attempting to start MySQL app...
+01:53:20  [mysql] 	Status change detected: running
+02:03:09  [Apache] 	Attempting to stop Apache (PID: 39560)
+02:03:09  [Apache] 	Attempting to stop Apache (PID: 18196)
+02:03:09  [Apache] 	Status change detected: stopped
+02:03:10  [mysql] 	Attempting to stop MySQL app...
+02:03:10  [mysql] 	Status change detected: stopped
+00:45:54  [main] 	Deinitializing Modules
+00:45:54  [main] 	Deinitializing Control Panel
+
+17:38:47  [main] 	Initializing Control Panel
+17:38:47  [main] 	Windows Version:  Home  64-bit
+17:38:47  [main] 	XAMPP Version: 7.4.4
+17:38:47  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:38:47  [main] 	Running with Administrator rights - good!
+17:38:47  [main] 	XAMPP Installation Directory: "e:\xampp\"
+17:38:47  [main] 	Checking for prerequisites
+17:38:48  [main] 	All prerequisites found
+17:38:48  [main] 	Initializing Modules
+17:38:48  [main] 	Starting Check-Timer
+17:38:48  [main] 	Control Panel Ready
+17:38:50  [Apache] 	Attempting to start Apache app...
+17:38:50  [Apache] 	Status change detected: running
+17:38:50  [mysql] 	Attempting to start MySQL app...
+17:38:50  [mysql] 	Status change detected: running
+19:26:53  [mysql] 	Attempting to stop MySQL app...
+19:26:54  [mysql] 	Status change detected: stopped
+19:26:54  [Apache] 	Attempting to stop Apache (PID: 30416)
+19:26:54  [Apache] 	Attempting to stop Apache (PID: 21548)
+19:26:54  [Apache] 	Status change detected: stopped
+19:28:25  [main] 	Deinitializing Modules
+19:28:25  [main] 	Deinitializing Control Panel
+

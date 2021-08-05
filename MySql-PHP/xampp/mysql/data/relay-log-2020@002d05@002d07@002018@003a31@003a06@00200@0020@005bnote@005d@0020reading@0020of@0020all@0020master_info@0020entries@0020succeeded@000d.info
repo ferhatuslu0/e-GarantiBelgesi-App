@@ -1,0 +1,8 @@
+5
+.\mysql-relay-bin-2020@002d05@002d07@002018@003a31@003a06@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001
+4
+
+0
+0
+2020-05-08  5:20:24 7 [ERROR] Failed to open the relay log '.\mysql-relay-bin-2020@002d05@002d07@002018@003a31@003a06@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001' (relay_log_pos 4)
+2020-05-08  5:20:24 7 [ERROR] Could not find target log during relay log initialization

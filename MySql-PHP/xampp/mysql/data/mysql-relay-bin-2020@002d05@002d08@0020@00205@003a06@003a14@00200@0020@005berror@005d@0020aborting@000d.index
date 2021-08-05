@@ -1,0 +1,18 @@
+.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000022
+2020-05-08 14:58:35 7 [Note] Initialized Master_info from 'master-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.info'
+2020-05-08 14:58:35 7 [Note] Added new Master_info '2020-05-08  5:06:14 0 [ERROR] Aborting' to hash table
+2020-05-08 14:58:35 7 [Note] Started replication for '2020-05-08  5:06:14 0 [ERROR] Aborting'
+2020-05-08 14:58:35 21 [Note] Master '2020-05-08  5:06:14 0 [ERROR] Aborting': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000021' position: 4
+2020-05-08 14:58:35 20 [ERROR] Master '2020-05-08  5:06:14 0 [ERROR] Aborting': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-05-08 14:58:35 0 [Warning] Reading of some Master_info entries failed
+2020-05-08 14:58:35 21 [ERROR] Master '2020-05-08  5:06:14 0 [ERROR] Aborting': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-05-08 14:58:35 20 [Note] Master '2020-05-08  5:06:14 0 [ERROR] Aborting': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-05-08 14:58:35 0 [ERROR] Failed to initialize multi master structures
+2020-05-08 14:58:35 20 [ERROR] Master '2020-05-08  5:06:14 0 [ERROR] Aborting': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-05-08 14:58:35 0 [ERROR] Aborting
+2020-05-08 14:58:35 20 [Note] Master '2020-05-08  5:06:14 0 [ERROR] Aborting': Slave I/O thread killed while connecting to master
+.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000023
+.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000024
+.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000025
+.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000026
+.\mysql-relay-bin-2020@002d05@002d08@0020@00205@003a06@003a14@00200@0020@005berror@005d@0020aborting@000d.000027
